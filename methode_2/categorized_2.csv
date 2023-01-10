@@ -1,0 +1,2001 @@
+,autres_1,Corrected,Categorie
+0,conjonctivite,conjonctivite,None
+1,transpiration,transpiration,None
+2,maladie renale,Maladie rénale,None
+3,douleur poitrine,Douleur poitrine,None
+4,exsudat pharynge,Exsudat pharyngé,None
+5,dyspnee,dyspnée,None
+6,epistaxis,épistaxis,None
+7,dyspnee,dyspnée,None
+8,dyspnee suivie pour hyperthyroide,dyspnée suivie pour hyperthyroïdie,None
+9,ecoulement nasal exsudat pharynge,écoulement nasal exsudat pharyngé,None
+10,rhinorrhee,rhinorrhée,rhinorrhée
+11,dyspnee,dyspnée,None
+12,algies dentaires,Algies dentaires,None
+13,dyspnee,dyspnée,None
+14,rhinorrhee,rhinorrhée,rhinorrhée
+15,rhinorrhee,rhinorrhée,rhinorrhée
+16,rhinorrhee,rhinorrhée,rhinorrhée
+17,rhinorrhee,rhinorrhée,rhinorrhée
+18,eternuments,éternuements,None
+19,ashme,assume,None
+20,eternuments,éternuements,None
+21,dificulte respiratoir,difficulté respiratoire,Douleurs musculaires
+22,rhinorrhee,rhinorrhée,rhinorrhée
+23,rhinorrhee,rhinorrhée,rhinorrhée
+24,malaise,malaise,None
+25,nez bouche,Nez bouche,None
+26,rhinorrhee,rhinorrhée,rhinorrhée
+27,rhinorrhee difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+28,rhinorrhee   eternument,rhinorrhée éternuement,rhinorrhée
+29,dorsalgie,dorsalgie,None
+30,rhinorrhee,rhinorrhée,rhinorrhée
+31,ecoulement nasale   maladie cardio vasculaire,écoulement nasale maladie cardiovasculaire,None
+32,rhinorrhee,rhinorrhée,rhinorrhée
+33,rhinorrhee,rhinorrhée,rhinorrhée
+34,difficulte respiratoire,difficulté respiratoire,Douleurs musculaires
+35,rhinorrhee,rhinorrhée,rhinorrhée
+36,rhinorrhee,rhinorrhée,rhinorrhée
+37,rhinorrhee,rhinorrhée,rhinorrhée
+38,ecoulement nasale,écoulement nasale,None
+39,rhinorrhee,rhinorrhée,rhinorrhée
+40,rhinorrhee,rhinorrhée,rhinorrhée
+41,rhinorrhee,rhinorrhée,rhinorrhée
+42,rhinorrhee,rhinorrhée,rhinorrhée
+43,rhinorrhee,rhinorrhée,rhinorrhée
+44,rhinorrhee,rhinorrhée,rhinorrhée
+45,ecoulement nasal,écoulement nasal,None
+46,aphasie hemiplegie,Aphasie hémiplégie,None
+47,fatigue,fatigue,Douleurs musculaires
+48,rhinorrhee,rhinorrhée,rhinorrhée
+49,rhinorrhee eternument,rhinorrhée éternuement,rhinorrhée
+50,rhinorrhee,rhinorrhée,rhinorrhée
+51,eternuments,éternuements,None
+52,rhinorrhee,rhinorrhée,rhinorrhée
+53,rhinorrhee,rhinorrhée,rhinorrhée
+54,sueur,sueur,None
+55,rhinorrhee,rhinorrhée,rhinorrhée
+56,rhinorrhee,rhinorrhée,rhinorrhée
+57,rhinorrhee,rhinorrhée,rhinorrhée
+58,rhinorrhee,rhinorrhée,rhinorrhée
+59,rhinorrhee,rhinorrhée,rhinorrhée
+60,rhinorrhee,rhinorrhée,rhinorrhée
+61,rhinorrhee,rhinorrhée,rhinorrhée
+62,rhinorrhee,rhinorrhée,rhinorrhée
+63,rhinorrhee,rhinorrhée,rhinorrhée
+64,rhinorrhee,rhinorrhée,rhinorrhée
+65,rhinorrhee,rhinorrhée,rhinorrhée
+66,rhinorrhee,rhinorrhée,rhinorrhée
+67,rhinorrhee,rhinorrhée,rhinorrhée
+68,courbature,courbature,Douleurs musculaires
+69,courbatures,courbatures,None
+70,tremblements,tremblements,None
+71,detresse respiratoire severe,détresse respiratoire sévère,Douleurs musculaires
+72,broncline,bronchite,None
+73,rhinorrhee,rhinorrhée,rhinorrhée
+74,fatigue,fatigue,Douleurs musculaires
+75,douleurlombaire,douleur lombaire,None
+76,rhinorrhee,rhinorrhée,rhinorrhée
+77,coubature,courbature,Douleurs musculaires
+78,ecoulement nasale   oeil rouge,écoulement nasale œil rouge,None
+79,ecoulement nasale   coubatures,écoulement nasale courbatures,None
+80,ecoulement nasale,écoulement nasale,None
+81,ecoulement nasale,écoulement nasale,None
+82,rhinorrhee,rhinorrhée,rhinorrhée
+83,asthenie,asthénie,None
+84,fatigue,fatigue,Douleurs musculaires
+85,courbatures,courbatures,None
+86,arthromyalgies rhinorrhee,arthralgies rhinorrhée,rhinorrhée
+87,rhinorrhee,rhinorrhée,rhinorrhée
+88,rhinorrhee,rhinorrhée,rhinorrhée
+89,rhinorrhee,rhinorrhée,rhinorrhée
+90,nausees,nausées,None
+91,ecoulement nasale  dysnee,écoulement nasale dyspnée,None
+92,rhinorrhee,rhinorrhée,rhinorrhée
+93,rhinorrhee,rhinorrhée,rhinorrhée
+94,algie diffuse,Algie diffuse,None
+95,rhinorrhee,rhinorrhée,rhinorrhée
+96,rhinorrhee algies diffuse,rhinorrhée algies diffuses,rhinorrhée
+97,algie diffuse,Algie diffuse,None
+98,ecoulement nasale,écoulement nasale,None
+99,gorge enflame   rouge ,Gorge enflammé rouge ,None
+100,rhinorrhee,rhinorrhée,rhinorrhée
+101,nausees,nausées,None
+102,frisson   arthralgies,Frisson arthralgies,None
+103,bourdonnements oreilles,Bourdonnements oreilles,None
+104,rhinorrhee,rhinorrhée,rhinorrhée
+105,rhinorrhee,rhinorrhée,rhinorrhée
+106,rhinorrhee,rhinorrhée,rhinorrhée
+107,difficulte de respirer,difficulté de respirer,None
+108,rhinorrhee,rhinorrhée,rhinorrhée
+109,algie diffuse,Algie diffuse,None
+110,rhinorrhee,rhinorrhée,rhinorrhée
+111,courbatures,courbatures,None
+112,rhinorrhee,rhinorrhée,rhinorrhée
+113,rhinorrhee,rhinorrhée,rhinorrhée
+114,ecoulement nasal,écoulement nasal,None
+115,ecoulement nasal,écoulement nasal,None
+116,dyspnee etenuments,dyspnée événements,None
+117,courbature,courbature,Douleurs musculaires
+118,rhinorrhee,rhinorrhée,rhinorrhée
+119,dyspnee douleur thoracique,dyspnée douleur thoracique,None
+120,dyspnee nez bouchee,dyspnée nez bouchée,None
+121,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+122,rhinorrhee,rhinorrhée,rhinorrhée
+123,essouflement,essoufflement,None
+124,rhinorrhee,rhinorrhée,rhinorrhée
+125,etornement vertiges,détournement vertiges,None
+126,rhinorrhee,rhinorrhée,rhinorrhée
+127,ecoulement nasale,écoulement nasale,None
+128,courbatures,courbatures,None
+129,ecoulement nasale,écoulement nasale,None
+130,rhinorrhee   coubatures,rhinorrhée courbatures,rhinorrhée
+131,essoufflement manque d'air,Essoufflement manque d'air,None
+132,faiblesse generale,Faiblesse générale,None
+133,douleur thoracique manque d appetit,Douleur thoracique manque d'appetit,None
+134,courbatures,courbatures,None
+135,douleurs thoraciques   courbatures,Douleurs thoraciques courbatures,None
+136,rhinorrhee courbatures,rhinorrhée courbatures,rhinorrhée
+137,asymptomatique,asymptomatique,None
+138,rhinorrhee,rhinorrhée,rhinorrhée
+139,rhinorrhee,rhinorrhée,rhinorrhée
+140,douleurs thoraciques,Douleurs thoraciques,None
+141,irritation,irritation,None
+142,dyspnee,dyspnée,None
+143,eternuments,éternuements,None
+144,rhinorrhee,rhinorrhée,rhinorrhée
+145,rhinorrhee,rhinorrhée,rhinorrhée
+146,dyspnee,dyspnée,None
+147,courbature,courbature,Douleurs musculaires
+148,dyspnee essoufflements,dyspnée essoufflements,None
+149,oppresssion thoracique,oppression thoracique,None
+150,vertiges,vertiges,None
+151,rhinorrhee,rhinorrhée,rhinorrhée
+152,rhinorrhee,rhinorrhée,rhinorrhée
+153,rhinorrhee,rhinorrhée,rhinorrhée
+154,rhinorrhee,rhinorrhée,rhinorrhée
+155,essouflement,essoufflement,None
+156,rhinorrhee dyspnee,rhinorrhée dyspnée,rhinorrhée
+157,rhinorrhee,rhinorrhée,rhinorrhée
+158,rhinorrhee,rhinorrhée,rhinorrhée
+159,polyuries   essoufflement,Polyuries essoufflement,None
+160,dysnees,dyspnées,None
+161,rhinorrhee,rhinorrhée,rhinorrhée
+162,rhinorrhee,rhinorrhée,rhinorrhée
+163,contact a risque,Contact à risque,None
+164,rhinorrhee,rhinorrhée,rhinorrhée
+165,anosmie,anosmie,anosmie
+166,rhinorrhee,rhinorrhée,rhinorrhée
+167,douleur poitrine essouflement manque d air,Douleur poitrine essoufflement manque d'air,None
+168,fatigue,fatigue,Douleurs musculaires
+169,rhinorrhee difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+170,rhinorrhee,rhinorrhée,rhinorrhée
+171,rhinorrhee courbatures dyspnee,rhinorrhée courbatures dyspnée,rhinorrhée
+172,rhinorrhee,rhinorrhée,rhinorrhée
+173,rhinorrhee,rhinorrhée,rhinorrhée
+174,dyspnee,dyspnée,None
+175,difficultes a respirer  douleurs thoraciques,difficultés à respirer douleurs thoraciques,None
+176,rhume   perte odorat,Rhume perte odorat,anosmie
+177,douleurs thoraciques,Douleurs thoraciques,None
+178,rhinorrhee,rhinorrhée,rhinorrhée
+179,perte de d odorat  bouche seche,Perte de d'odorat bouche sèche,None
+180,courbatures lombalgies,Courbatures lombalgies,None
+181,rhinorrhee,rhinorrhée,rhinorrhée
+182,rhinorrhee   douleurs de poitrine,rhinorrhée douleurs de poitrine,rhinorrhée
+183,rhinorrhee courbatures,rhinorrhée courbatures,rhinorrhée
+184,courbatures,courbatures,None
+185,rhinorrhee,rhinorrhée,rhinorrhée
+186,rhinorrhee difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+187,rhinorrhee,rhinorrhée,rhinorrhée
+188,rhinorrhee difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+189,dyspnee,dyspnée,None
+190,rhinorrhee,rhinorrhée,rhinorrhée
+191,eternuments sensation thoracique,éternuements sensation thoracique,Douleurs musculaires
+192,rhume,rhume,None
+193,courbature,courbature,Douleurs musculaires
+194,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+195,rhinorrhee,rhinorrhée,rhinorrhée
+196,otalgie,otalgie,None
+197,rhinorrhee   obstruction nasale   arthromyalgies,rhinorrhée obstruction nasale arthralgies,rhinorrhée
+198,rhinorrhee,rhinorrhée,rhinorrhée
+199,rhinorrhee,rhinorrhée,rhinorrhée
+200,essouflement,essoufflement,None
+201,rhinorrhee,rhinorrhée,rhinorrhée
+202,courbatures,courbatures,None
+203,nausees,nausées,None
+204,douleurs thoraciques,Douleurs thoraciques,None
+205,rhinorrhee,rhinorrhée,rhinorrhée
+206,rhinorrhee,rhinorrhée,rhinorrhée
+207,douleur thoracique,Douleur thoracique,None
+208,rhinorrhee,rhinorrhée,rhinorrhée
+209,courbatures,courbatures,None
+210,fatigue,fatigue,Douleurs musculaires
+211,courbatures,courbatures,None
+212,fatigue,fatigue,Douleurs musculaires
+213,maux de tete,Maux de tête,None
+214,maux de tete,Maux de tête,None
+215,essoufflement  manque d air,Essoufflement manque d'air,None
+216,ecoulement nasal,écoulement nasal,None
+217,ecoulement nasal,écoulement nasal,None
+218,ecoulement nasal,écoulement nasal,None
+219,ecoulement nasal,écoulement nasal,None
+220,rhinorrhee dyspnee,rhinorrhée dyspnée,rhinorrhée
+221,rhinorrhee douleurs occulaires,rhinorrhée douleurs oculaires,rhinorrhée
+222,dyspnee difficulte  respiratoire,dyspnée difficulté respiratoire,Douleurs musculaires
+223,algie diffuse,Algie diffuse,None
+224,rhinorrhee,rhinorrhée,rhinorrhée
+225,maux deventre,Maux de ventre,None
+226,rhinorrhee,rhinorrhée,rhinorrhée
+227,diabete type 2,diabète type 2,None
+228,dyspnee,dyspnée,None
+229,perte adorat,Perte adorât,None
+230,fatigue,fatigue,Douleurs musculaires
+231,rhinorrhee,rhinorrhée,rhinorrhée
+232,courbatures artromyalgies,Courbatures arthralgies,None
+233,rhinorrhee artromyalagies,rhinorrhée artromyalagies,rhinorrhée
+234,rhinorrhee algies diffuse,rhinorrhée algies diffuses,rhinorrhée
+235,rhinorrhee lombalgies,rhinorrhée lombalgies,rhinorrhée
+236,douleur thoracique dyspnee,Douleur thoracique dyspnée,None
+237,rhinorrhee,rhinorrhée,rhinorrhée
+238,rhinorrhee eternument douleurs thoraciques,rhinorrhée éternuement douleurs thoraciques,rhinorrhée
+239,rhinorrhee,rhinorrhée,rhinorrhée
+240,rhinorrhee,rhinorrhée,rhinorrhée
+241,rhinorrhee,rhinorrhée,rhinorrhée
+242,ecoulement nasal,écoulement nasal,None
+243,courbatures,courbatures,None
+244,rhinorrhee eternument,rhinorrhée éternuement,rhinorrhée
+245,rhinorrhee eternument,rhinorrhée éternuement,rhinorrhée
+246,rhinorrhee,rhinorrhée,rhinorrhée
+247,rhinorrhee,rhinorrhée,rhinorrhée
+248,rhinorrhee,rhinorrhée,rhinorrhée
+249,rhinorrhee,rhinorrhée,rhinorrhée
+250,rhinorrhee,rhinorrhée,rhinorrhée
+251,rhinorrhee,rhinorrhée,rhinorrhée
+252,rhinorrhee,rhinorrhée,rhinorrhée
+253,rhinorrhee,rhinorrhée,rhinorrhée
+254,rhinorrhee,rhinorrhée,rhinorrhée
+255,rhinorrhee,rhinorrhée,rhinorrhée
+256,rhinorrhee,rhinorrhée,rhinorrhée
+257,douleur thoracique,Douleur thoracique,None
+258,rhinorrhee,rhinorrhée,rhinorrhée
+259,rhinorrhee,rhinorrhée,rhinorrhée
+260,rhinorrhee,rhinorrhée,rhinorrhée
+261,rhinorrhee,rhinorrhée,rhinorrhée
+262,dyspnee,dyspnée,None
+263,rhinorrhee,rhinorrhée,rhinorrhée
+264,difficultes respiratoires,difficultés respiratoires,None
+265,anemie,anosmie,anosmie
+266,rhinorrhee,rhinorrhée,rhinorrhée
+267,rhinorrhee,rhinorrhée,rhinorrhée
+268,rhinorrhee,rhinorrhée,rhinorrhée
+269,courbatures,courbatures,None
+270,douleurs thoraciques,Douleurs thoraciques,None
+271,rhinorrhee,rhinorrhée,rhinorrhée
+272,dyspnee,dyspnée,None
+273,diabetique hypertendu douleurs a la poitrine,diabétique hypertendues douleurs a la poitrine,None
+274,diabete,diabète,None
+275,rhinorrhee dyspnee,rhinorrhée dyspnée,rhinorrhée
+276,rhinorrhee,rhinorrhée,rhinorrhée
+277,rhinorrhee,rhinorrhée,rhinorrhée
+278,rhinorrhee,rhinorrhée,rhinorrhée
+279,anosmie,anosmie,anosmie
+280,rhinorrhee,rhinorrhée,rhinorrhée
+281,rhinorrhee,rhinorrhée,rhinorrhée
+282,faiblesse generale,Faiblesse générale,None
+283,dyspnee  agitation,dyspnée agitation,None
+284,rhinorrhee eternuements,rhinorrhée éternuements,rhinorrhée
+285,douleures courbatures,douleurs courbatures,None
+286,faiblesse general,Faiblesse général,None
+287,faiblesse general,Faiblesse général,None
+288,dyspnee,dyspnée,None
+289,essoufflement manque d air,Essoufflement manque d'air,None
+290,rhinorrhee,rhinorrhée,rhinorrhée
+291,courbatures,courbatures,None
+292,rhinorrhee,rhinorrhée,rhinorrhée
+293,rhinorrhee,rhinorrhée,rhinorrhée
+294,rhinorrhee,rhinorrhée,rhinorrhée
+295,rhinorrhee,rhinorrhée,rhinorrhée
+296,rhinorrhee douleur thoracique,rhinorrhée douleur thoracique,rhinorrhée
+297,rhinorrhee,rhinorrhée,rhinorrhée
+298,rhinorrhee,rhinorrhée,rhinorrhée
+299,rhinorrhee conjonctivite,rhinorrhée conjonctivite,rhinorrhée
+300,rhinorrhee,rhinorrhée,rhinorrhée
+301,rhinorrhee,rhinorrhée,rhinorrhée
+302,rhinorrhee difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+303,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+304,douleurs thoracique,Douleurs thoraciques,None
+305,esoufflement    manque d'air,essoufflement manque d'air,None
+306,essouflement  manque d'air  douleur poitrine,essoufflement manque d'air douleur poitrine,None
+307,douleur poitrine,Douleur poitrine,None
+308,perte du  gout,Perte du gout,None
+309,difficulte a marcher   dyspnee,difficulté à marcher dyspnée,None
+310,courbatures,courbatures,None
+311,asthenie,asthénie,None
+312,asthenie,asthénie,None
+313,amputation il y a1 semaine abasse ndao,Amputation il y a1 semaine a basse nDa,None
+314,rhinorrhee,rhinorrhée,rhinorrhée
+315,algie diffuse rinhorrhee,Algie diffuse rhinorrhée,rhinorrhée
+316,courbatures,courbatures,None
+317,algie diffuse,Algie diffuse,None
+318,essoufflement manque d air douleur poitrine,Essoufflement manque d'air douleur poitrine,None
+319,essoufflement manque d air,Essoufflement manque d'air,None
+320,rhinorrhee,rhinorrhée,rhinorrhée
+321,perte d'appetit,Perte d'appétit,None
+322,rhinorrhee,rhinorrhée,rhinorrhée
+323,essoufflement manque d'air,Essoufflement manque d'air,None
+324,algies diffuses,Algies diffuses,None
+325,rhinorrhee algies diffuse,rhinorrhée algies diffuses,rhinorrhée
+326,rhume,rhume,None
+327,anorexie,anorexie,None
+328,rhinorrhee eternument,rhinorrhée éternuement,rhinorrhée
+329,courbatures,courbatures,None
+330,courbatures,courbatures,None
+331,courbatures  rhinorrhee,Courbatures rhinorrhée,rhinorrhée
+332,rhinorrhee,rhinorrhée,rhinorrhée
+333,rhinorrhee,rhinorrhée,rhinorrhée
+334,rhinorrhee,rhinorrhée,rhinorrhée
+335,rhinorrhee difficulte respiratoire dyspnee,rhinorrhée difficulté respiratoire dyspnée,"Douleurs musculaires,rhinorrhée"
+336,althralgies,arthralgies,None
+337,rhinorrhee athromyalgies,rhinorrhée fibromyalgies,rhinorrhée
+338,courbatures,courbatures,None
+339,faiblesse generale  essoufflement manque d'air,Faiblesse générale essoufflement manque d'air,None
+340,courbatures  douleurs thoraciques,Courbatures douleurs thoraciques,None
+341,maladie cardiovasculaire  hypertensionarterielle,Maladie cardiovasculaire hypertensionarterielle,None
+342,maladie du foie,Maladie du foie,None
+343,courbature,courbature,Douleurs musculaires
+344,rhinorrhee,rhinorrhée,rhinorrhée
+345,reflux gastrique,Reflux gastrique,None
+346,ecoulement nasal,écoulement nasal,None
+347,perte de gout,Perte de gout,None
+348,nausees,nausées,None
+349,abses au niveau du genou,bases au niveau du genou,None
+350,aqueusie anosmie,aqueuse anosmie,anosmie
+351,frequence respiratoire ecoulement nasale,fréquence respiratoire écoulement nasale,Douleurs musculaires
+352,dyspnee frequence respiratoire,dyspnée fréquence respiratoire,Douleurs musculaires
+353,dyspnee frequence respiratoire,dyspnée fréquence respiratoire,Douleurs musculaires
+354,rhinorrhee,rhinorrhée,rhinorrhée
+355,enflement du visage,Enflement du visage,None
+356,arthromyalgies,arthralgies,None
+357,rhinorrhee,rhinorrhée,rhinorrhée
+358,rhinorrhee,rhinorrhée,rhinorrhée
+359,rhinorrhee arthralgies,rhinorrhée arthralgies,rhinorrhée
+360,anthralgies,arthralgies,None
+361,rhinorrhee arthralgies,rhinorrhée arthralgies,rhinorrhée
+362,bouffer de chaleur  dyspnee,Bouffer de chaleur dyspnée,None
+363,pertes de gouts,Pertes de gouts,None
+364,dyspnee,dyspnée,None
+365,douleur toracique,Douleur thoracique,None
+366,agueusie  anosmie,Agueusie anosmie,anosmie
+367,manque d'air  essoufflement,Manque d'air essoufflement,None
+368,douleurs poitrine,Douleurs poitrine,None
+369,rhinorrhee,rhinorrhée,rhinorrhée
+370,gene respiratoire,gène respiratoire,Douleurs musculaires
+371,rhinorrhee,rhinorrhée,rhinorrhée
+372,rhinorrhee,rhinorrhée,rhinorrhée
+373,asthenie  amaigrissement,asthénie amaigrissement,None
+374,rhinorrhee,rhinorrhée,rhinorrhée
+375,dyspnee brulures thoracique,dyspnée brulures thoraciques,None
+376,faiblesse generale,Faiblesse générale,None
+377,faiblesse generale ecoulement nasal,Faiblesse générale écoulement nasal,None
+378,courbatures  nausees,Courbatures nausées,None
+379,douleurs poitrine conjonctivite exsudat pharynge auscultation pulmonaire anormale,Douleurs poitrine conjonctivite exsudat pharyngé auscultation pulmonaire anormale,None
+380,douleur thoracique,Douleur thoracique,None
+381,ecoulement nasal,écoulement nasal,None
+382,faiblesse generale,Faiblesse générale,None
+383,fatigue,fatigue,Douleurs musculaires
+384,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+385,asthromyalgies,asthromyalgies,None
+386,algie diffuse,Algie diffuse,None
+387,myqueuse anormal,muqueuse anormal,None
+388,asthromyalgies,asthromyalgies,None
+389,maladie chronique des poumons,Maladie chronique des poumons,None
+390,rhinorrhee,rhinorrhée,rhinorrhée
+391,rhinorrhee difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+392,rhinorrhee,rhinorrhée,rhinorrhée
+393,problemes de nerfs,problèmes de nerfs,None
+394,rhinorrhee difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+395,ecoulement nasal,écoulement nasal,None
+396,asthmatique,asthmatique,None
+397,rhinorrhee,rhinorrhée,rhinorrhée
+398,rhinorrhee,rhinorrhée,rhinorrhée
+399,asthenie,asthénie,None
+400,arthromyalgies,arthralgies,None
+401,constipations,constipations,None
+402,perte d' appetit,Perte d'appetit,None
+403,douleurs thoracique,Douleurs thoraciques,None
+404,rhinorrhee,rhinorrhée,rhinorrhée
+405,dyspnee  rhinorrhee,dyspnée rhinorrhée,rhinorrhée
+406,faiblesse generale  asthme,Faiblesse générale asthme,None
+407,dyspnee,dyspnée,None
+408,maladie cardiovasculaire  hypertension arteriel,Maladie cardiovasculaire hypertension artériel,None
+409,tachycardie,tachycardie,None
+410,dyspnee yeux irritant,dyspnée yeux irritants,None
+411,rhinorrhee,rhinorrhée,rhinorrhée
+412,rhinorrhee,rhinorrhée,rhinorrhée
+413,algiediffuse,algie diffuse,None
+414,tachypnee,tachypnée,None
+415,rhinorrhee,rhinorrhée,rhinorrhée
+416,rhinorrhee,rhinorrhée,rhinorrhée
+417,faiblesse generale ,Faiblesse générale ,None
+418,douleur de la poitrine,Douleur de la poitrine,None
+419,douleur thoracique,Douleur thoracique,None
+420,dyspnee douleur thoracique courbatures,dyspnée douleur thoracique courbatures,None
+421,rhinorrhee,rhinorrhée,rhinorrhée
+422,rhinorrhee gene respiratoire,rhinorrhée gène respiratoire,"Douleurs musculaires,rhinorrhée"
+423,douleurs thoraciques  amaigrissement,Douleurs thoraciques amaigrissement,None
+424,insomnie  palpitation,Insomnie palpitation,None
+425,algie diffuse,Algie diffuse,None
+426,dysnee,dyspnée,None
+427,obetruction nasal,obstruction nasal,None
+428,prurit,prurit,None
+429,asthmatique,asthmatique,None
+430,nez bouche,Nez bouche,None
+431,rhinorrhee,rhinorrhée,rhinorrhée
+432,douleurs retisorbitaire,Douleurs périorbitaire,None
+433,courbatures,courbatures,None
+434,perte de l'odorat,Perte de l'odorat,None
+435,polyartheralgie,polyartheralgie,None
+436,asthenie   courbatures,asthénie courbatures,None
+437,frissons,frissons,None
+438,rhinorrhee,rhinorrhée,rhinorrhée
+439,rhinorrhee,rhinorrhée,rhinorrhée
+440,rhinorrhee,rhinorrhée,rhinorrhée
+441,congestum nasale essoufflement,congestif nasal essoufflement,None
+442,faiblesse generale,Faiblesse générale,None
+443,essouflement  manque d'air,essoufflement manque d'air,None
+444,faiblesse generale,Faiblesse générale,None
+445,faiblesse generale,Faiblesse générale,None
+446,faiblesse generale,Faiblesse générale,None
+447,courbatures,courbatures,None
+448,douleur de la poitrine,Douleur de la poitrine,None
+449,rhinorrhee  dysphnee   polysnee,rhinorrhée dyspnée polypnée,rhinorrhée
+450,faiblesse generale,Faiblesse générale,None
+451,faiblesse generale,Faiblesse générale,None
+452,rhinorrhee  courbatures,rhinorrhée courbatures,rhinorrhée
+453,faiblesse generale,Faiblesse générale,None
+454,maux reins spamophile,Maux reins spasmophile,None
+455,faiblesse generale,Faiblesse générale,None
+456,trouble respiratoires,Trouble respiratoire,Douleurs musculaires
+457,dyspnee,dyspnée,None
+458,dyspnee  ecoulement nasal,dyspnée écoulement nasal,None
+459,faiblesse generle,Faiblesse génère-le,None
+460,asthenie,asthénie,None
+461,asthenie,asthénie,None
+462,douleur poitrine  asthme   deepanocytose,Douleur poitrine asthme drépanocytose,None
+463,arthralgies,arthralgies,None
+464,courbatures   arthromyalgies,Courbatures arthralgies,None
+465,arthromyalgie,arthralgie,None
+466,asthenie   arthralgie,asthénie arthralgie,None
+467,hypogeusie,hypocauste,None
+468,asthenie   arthralgies   frissons,asthénie arthralgies frissons,None
+469,bouffer de chaleur  dyspnee,Bouffer de chaleur dyspnée,None
+470,arthralgies,arthralgies,None
+471,courbatures douleur thoracique,Courbatures douleur thoracique,None
+472,douleur thoracique,Douleur thoracique,None
+473,dyspnee,dyspnée,None
+474,ecoulement nasal,écoulement nasal,None
+475,rhume,rhume,None
+476,rhinorrhee,rhinorrhée,rhinorrhée
+477,rhinorrhee,rhinorrhée,rhinorrhée
+478,rhinorrhee   trouble respiatoir,rhinorrhée trouble respiratoire,"Douleurs musculaires,rhinorrhée"
+479,rhinorrhee,rhinorrhée,rhinorrhée
+480,rhume,rhume,None
+481,essouflement,essoufflement,None
+482,rhinorrhee,rhinorrhée,rhinorrhée
+483,rhinorrhee,rhinorrhée,rhinorrhée
+484,rhinorrhee,rhinorrhée,rhinorrhée
+485,rhinorrhee,rhinorrhée,rhinorrhée
+486,courbature,courbature,Douleurs musculaires
+487,essouflement  manque d'air,essoufflement manque d'air,None
+488,lombalgie  p  thoracique,Lombalgie p thoracique,None
+489,perte de l'odorat,Perte de l'odorat,None
+490,inssuffissance renale,insuffisance rénale,None
+491,asthenie,asthénie,None
+492,asthenie,asthénie,None
+493,difficultes respiratoires,difficultés respiratoires,None
+494,tachypnee,tachypnée,None
+495,douleurs a la poitrine,Douleurs a la poitrine,None
+496,rhinorrhee,rhinorrhée,rhinorrhée
+497,rhinorrhee,rhinorrhée,rhinorrhée
+498,rhinorrhee gene respiratoire courbature,rhinorrhée gène respiratoire courbature,"Douleurs musculaires,rhinorrhée"
+499,rhinorrhee,rhinorrhée,rhinorrhée
+500,rhinorrhee,rhinorrhée,rhinorrhée
+501,rhinorrhee,rhinorrhée,rhinorrhée
+502,rhinorrhee,rhinorrhée,rhinorrhée
+503,dyspnee,dyspnée,None
+504,douleur thoracique,Douleur thoracique,None
+505,anosmie,anosmie,anosmie
+506,antecedent de fievre frissons,antécédent de fièvre frissons,None
+507,ecoulement nasal,écoulement nasal,None
+508,courbatures,courbatures,None
+509,asthmatique ecoulement nasal,Asthmatique écoulement nasal,None
+510,rhinorrhee,rhinorrhée,rhinorrhée
+511,insuffisance mitrale,Insuffisance mitrale,None
+512,allergies,allergies,None
+513,faiblesse generale  maladie cardi  hta,Faiblesse générale maladie mardi HTA,None
+514,faiblesse generale,Faiblesse générale,None
+515,faiblesse generale,Faiblesse générale,None
+516,diabete,diabète,None
+517,faiblesse generale,Faiblesse générale,None
+518,maladie du foie,Maladie du foie,None
+519,courbatures,courbatures,None
+520,rhinorrhee,rhinorrhée,rhinorrhée
+521,douleur de la poitrine,Douleur de la poitrine,None
+522,douleur de la poitrine,Douleur de la poitrine,None
+523,faiblesse generale ,Faiblesse générale ,None
+524,asmathique,asiatique,None
+525,rhinorrhee,rhinorrhée,rhinorrhée
+526,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+527,frequence  respiratoire    asthenie,fréquence respiratoire asthénie,Douleurs musculaires
+528,anosmie aguesie,anosmie agueusie,anosmie
+529,rinorrhee,rhinorrhée,rhinorrhée
+530,douleur cervicale,Douleur cervicale,None
+531,douleur talon,Douleur talon,None
+532,dyspnee,dyspnée,None
+533,diabetique dyspnee,diabétique dyspnée,None
+534,douleurs thoraciques,Douleurs thoraciques,None
+535,dyspnee frequence respiratoire,dyspnée fréquence respiratoire,Douleurs musculaires
+536,essouflement  douleur poitrine,essoufflement douleur poitrine,None
+537,douleur thoracique,Douleur thoracique,None
+538,rhume,rhume,None
+539,rhinorrhee,rhinorrhée,rhinorrhée
+540,rhinorrhee,rhinorrhée,rhinorrhée
+541,rhinorrhee,rhinorrhée,rhinorrhée
+542,rhinorrhee,rhinorrhée,rhinorrhée
+543,rhinorrhee,rhinorrhée,rhinorrhée
+544,rhinorrhee,rhinorrhée,rhinorrhée
+545,rhinorrhee,rhinorrhée,rhinorrhée
+546,rhinorrhee arthralgies,rhinorrhée arthralgies,rhinorrhée
+547,rhinorrhee arthralgies,rhinorrhée arthralgies,rhinorrhée
+548,anorexie,anorexie,None
+549,arthromyalgie,arthralgie,None
+550,arthralgies  myalgies,Arthralgies myalgies,None
+551,arthromyalgie,arthralgie,None
+552,courbatures   arthromyalgie,Courbatures arthralgie,None
+553,fatigue,fatigue,Douleurs musculaires
+554,douleurs thoraciques,Douleurs thoraciques,None
+555,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+556,dyspnee difficulte respiratoire,dyspnée difficulté respiratoire,Douleurs musculaires
+557,rhinorrhee,rhinorrhée,rhinorrhée
+558,essoufflement manque d air,Essoufflement manque d'air,None
+559,faiblesse generale,Faiblesse générale,None
+560,douleur poitrine,Douleur poitrine,None
+561,essoufflement manque d air,Essoufflement manque d'air,None
+562,agueusie anosmie,Agueusie anosmie,anosmie
+563,agueusie anosmie,Agueusie anosmie,anosmie
+564,douleur poitrine,Douleur poitrine,None
+565,rhinorrhee,rhinorrhée,rhinorrhée
+566,rhinorrhee,rhinorrhée,rhinorrhée
+567,rhinorrhee,rhinorrhée,rhinorrhée
+568,rhinorrhee arthralgies,rhinorrhée arthralgies,rhinorrhée
+569,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+570,conjonctivite,conjonctivite,None
+571,essoufflement manque d air,Essoufflement manque d'air,None
+572,rhinorrhee eternuement,rhinorrhée éternuement,rhinorrhée
+573,difficultes respiratoires,difficultés respiratoires,None
+574,dyspnee,dyspnée,None
+575,rhinorrhee,rhinorrhée,rhinorrhée
+576,difficultes respiratoires,difficultés respiratoires,None
+577,rhinorrhee difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+578,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+579,rhinorrhee,rhinorrhée,rhinorrhée
+580,adenopathie cervicales,adénopathie cervicales,None
+581,difficutes de respiratoires,difficultés de respiratoires,None
+582,algie diffuse,Algie diffuse,None
+583,rhinorrhee,rhinorrhée,rhinorrhée
+584,rhinorrhee,rhinorrhée,rhinorrhée
+585,rhinorrhee,rhinorrhée,rhinorrhée
+586,courbatures,courbatures,None
+587,rhinorrhee,rhinorrhée,rhinorrhée
+588,rhinorrhee,rhinorrhée,rhinorrhée
+589,rhinorrhee,rhinorrhée,rhinorrhée
+590,rhinorrhee,rhinorrhée,rhinorrhée
+591,rhinorrhee,rhinorrhée,rhinorrhée
+592,polyarthralgies,polyarthralgies,None
+593,rhinorrhee probleme respiratoire,rhinorrhée problème respiratoire,"Douleurs musculaires,rhinorrhée"
+594,hta,HTA,None
+595,vertige  palpitation,Vertige palpitation,None
+596,eternuements,éternuements,None
+597,rhume,rhume,None
+598,mal de poitrine,Mal de poitrine,None
+599,rhinorrhee,rhinorrhée,rhinorrhée
+600,rhinorrhee,rhinorrhée,rhinorrhée
+601,rhinorrhee  hypogeusie,rhinorrhée hypocauste,rhinorrhée
+602,rhinorrhee,rhinorrhée,rhinorrhée
+603,rinnorrhe,ignore,None
+604,rhinorrhee,rhinorrhée,rhinorrhée
+605,irritation de la gorge,Irritation de la gorge,None
+606,epigastralgie,épigastralgie,None
+607,anosmie,anosmie,anosmie
+608,maladie du foie,Maladie du foie,None
+609,ecoulement nasal,écoulement nasal,None
+610,douleur toracique,Douleur thoracique,None
+611,faiblesse generale,Faiblesse générale,None
+612,ecoulement nasal  faiblesse generale,écoulement nasal faiblesse générale,None
+613,fievre typhoide,fièvre typhoïde,None
+614,ecoulement nasal,écoulement nasal,None
+615,asthenia,asthénie,None
+616,courbatures,courbatures,None
+617,maux de tete,Maux de tête,None
+618,hypertendu migraineux,Hypertendu migraineux,None
+619,essoufflement dyspnee,Essoufflement dyspnée,None
+620,agnesie,amnésie,None
+621,dyspnee,dyspnée,None
+622,hypertendue,hypertendue,None
+623,embarras gastrique,Embarras gastrique,None
+624,detresse respiratoire,détresse respiratoire,Douleurs musculaires
+625,rhinorrhee,rhinorrhée,rhinorrhée
+626,douleurs lombaires,Douleurs lombaires,None
+627,rhinorrhee,rhinorrhée,rhinorrhée
+628,rhinorrhee,rhinorrhée,rhinorrhée
+629,rhinorrhee,rhinorrhée,rhinorrhée
+630,rhinorrhee difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+631,rhinorrhee,rhinorrhée,rhinorrhée
+632,rhinorrhee,rhinorrhée,rhinorrhée
+633,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+634,rhinorrhee,rhinorrhée,rhinorrhée
+635,faiblesse generale,Faiblesse générale,None
+636,difficulte respiratoire,difficulté respiratoire,Douleurs musculaires
+637,dyspnee insomnie,dyspnée insomnie,None
+638,rhinorrhee,rhinorrhée,rhinorrhée
+639,anorexie,anorexie,None
+640,rhinorrhee  essouflement  asthmatique,rhinorrhée essoufflement asthmatique,rhinorrhée
+641,rhinorrhee,rhinorrhée,rhinorrhée
+642,rhinorrhee   arthragies  myalgies,rhinorrhée arthralgies myalgies,rhinorrhée
+643,anosmie  ageustie,anosmie agueusie,anosmie
+644,arthromyalgies,arthralgies,None
+645,rhinorrhee  anorexie,rhinorrhée anorexie,rhinorrhée
+646,arthromyalgies,arthralgies,None
+647,rhinorrhee,rhinorrhée,rhinorrhée
+648,rhinorrhee,rhinorrhée,rhinorrhée
+649,rhinorrhee,rhinorrhée,rhinorrhée
+650,rhinorrhee,rhinorrhée,rhinorrhée
+651,rhinorrhee,rhinorrhée,rhinorrhée
+652,rhinorrhee,rhinorrhée,rhinorrhée
+653,rhinorrhee,rhinorrhée,rhinorrhée
+654,rhinorrhee,rhinorrhée,rhinorrhée
+655,douleurs poitrine,Douleurs poitrine,None
+656,faiblesse generale,Faiblesse générale,None
+657,essouflement manque d'air,essoufflement manque d'air,None
+658,courbature douleur thoracique,Courbature douleur thoracique,Douleurs musculaires
+659,essoufflement dyspnee,Essoufflement dyspnée,None
+660,dyspnee douleurs thoraciques,dyspnée douleurs thoraciques,None
+661,douleurs pelviennes,Douleurs pelviennes,None
+662,asmathique,asiatique,None
+663,pertes goiut,Pertes goût,None
+664,rhinorrhee,rhinorrhée,rhinorrhée
+665,rhinorrhee,rhinorrhée,rhinorrhée
+666,rhinorrhee,rhinorrhée,rhinorrhée
+667,rhinorrhee,rhinorrhée,rhinorrhée
+668,dyspnee,dyspnée,None
+669,rhinorrhee,rhinorrhée,rhinorrhée
+670,rhinorrhee,rhinorrhée,rhinorrhée
+671,algie diffuse,Algie diffuse,None
+672,rhinorrhee,rhinorrhée,rhinorrhée
+673,douleurs pelviennes,Douleurs pelviennes,None
+674,douleur toracique,Douleur thoracique,None
+675,syndrome condensation pulmonaire,Syndrome condensation pulmonaire,None
+676,rhinorrhee,rhinorrhée,rhinorrhée
+677,douleur thoraxique,Douleur thoracique,None
+678,douleur thoraxique,Douleur thoracique,None
+679,douleur thoraxique,Douleur thoracique,None
+680,dysplagie douleur thoracique,dysplasie douleur thoracique,None
+681,polyarthralgies,polyarthralgies,None
+682,perte de l'odorat et du gout,Perte de l'odorat et du gout,None
+683,rhinorrhee,rhinorrhée,rhinorrhée
+684,hypogeusie,hypocauste,None
+685,rhinorrhee,rhinorrhée,rhinorrhée
+686,arthromyalgies,arthralgies,None
+687,maladies cardio  hta,Maladies cardio HTA,None
+688,ecoulement nasal,écoulement nasal,None
+689,ecoulement nasal,écoulement nasal,None
+690,ecoulement posterieur,écoulement postérieur,None
+691,ecoulement nasal,écoulement nasal,None
+692,altralgies,arthralgies,None
+693,rhinorrhee douleur a la poitrine,rhinorrhée douleur a la poitrine,rhinorrhée
+694,douleurs a la poitrine et aux dos,Douleurs a la poitrine et aux dos,None
+695,dyspnee,dyspnée,None
+696,dyspnee anorexie rhinorrhee,dyspnée anorexie rhinorrhée,rhinorrhée
+697,difficultes respiratoires,difficultés respiratoires,None
+698,anosmie courbature,anosmie courbature,"anosmie,Douleurs musculaires"
+699,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+700,rhinorrhee,rhinorrhée,rhinorrhée
+701,rhinorrhee,rhinorrhée,rhinorrhée
+702,rhinorrhee,rhinorrhée,rhinorrhée
+703,nausees,nausées,None
+704,rhinorrhee,rhinorrhée,rhinorrhée
+705,rhinorrhee,rhinorrhée,rhinorrhée
+706,rhinorrhee,rhinorrhée,rhinorrhée
+707,rhinorrhee,rhinorrhée,rhinorrhée
+708,insomnie,insomnie,None
+709,rhinorrhee,rhinorrhée,rhinorrhée
+710,rhinorrhee,rhinorrhée,rhinorrhée
+711,rhinorrhee,rhinorrhée,rhinorrhée
+712,atthralgies,arthralgies,None
+713,rhinorrhee,rhinorrhée,rhinorrhée
+714,rhinorrhee,rhinorrhée,rhinorrhée
+715,rhinorrhee,rhinorrhée,rhinorrhée
+716,rhinorrhee,rhinorrhée,rhinorrhée
+717,arthralgies,arthralgies,None
+718,rhinorrhee,rhinorrhée,rhinorrhée
+719,irritation  de la gorge,Irritation de la gorge,None
+720,rhinorrhee,rhinorrhée,rhinorrhée
+721,rhinorrhee,rhinorrhée,rhinorrhée
+722,rhinorrhee,rhinorrhée,rhinorrhée
+723,douleur poitrine,Douleur poitrine,None
+724,essouflement manque d'air,essoufflement manque d'air,None
+725,courbature douleur thoracique,Courbature douleur thoracique,Douleurs musculaires
+726,ecoulement,écoulement,None
+727,essouflement  manque d'air,essoufflement manque d'air,None
+728,faiblesse generale,Faiblesse générale,None
+729,mal de poitrine  estomac,Mal de poitrine estomac,None
+730,ecoulement nasal,écoulement nasal,None
+731,rhinorrhee,rhinorrhée,rhinorrhée
+732,rhinorrhee,rhinorrhée,rhinorrhée
+733,rhinorrhee,rhinorrhée,rhinorrhée
+734,troubles neurologiquess,Troubles neurologiques,None
+735,douleur thoracique,Douleur thoracique,None
+736,rhinorrhee,rhinorrhée,rhinorrhée
+737,dyspnee,dyspnée,None
+738,douleur toracique,Douleur thoracique,None
+739,rhinorrhee dypsnee courbature,rhinorrhée dyspnée courbature,"Douleurs musculaires,rhinorrhée"
+740,douleurs thoraciques,Douleurs thoraciques,None
+741,oppression thoracique  yeux rouges,Oppression thoracique yeux rouges,None
+742,gene respiratoire   essouflement,gène respiratoire essoufflement,Douleurs musculaires
+743,palpitations,palpitations,None
+744,rhinorrhee,rhinorrhée,rhinorrhée
+745,rhinorrhee,rhinorrhée,rhinorrhée
+746,douleurs poitrine,Douleurs poitrine,None
+747,rhinorrhee douleurs thoracique,rhinorrhée douleurs thoraciques,rhinorrhée
+748,rhinorrhee,rhinorrhée,rhinorrhée
+749,arthromyalgies,arthralgies,None
+750,rhinorrhee arthralgies,rhinorrhée arthralgies,rhinorrhée
+751,courbatures,courbatures,None
+752,anosmie,anosmie,anosmie
+753,rhinorrhee,rhinorrhée,rhinorrhée
+754,arthromyalgies,arthralgies,None
+755,arthromyalgies,arthralgies,None
+756,anosmie,anosmie,anosmie
+757,essouflement   faiblesse generale  anosmie,essoufflement faiblesse générale anosmie,anosmie
+758,faiblesse generale essouflement ecoulement nasal,Faiblesse générale essoufflement écoulement nasal,None
+759,difficulte respiratoire,difficulté respiratoire,Douleurs musculaires
+760,salbutamol,salbutamol,None
+761,rhinorrhee fatigue,rhinorrhée fatigue,"Douleurs musculaires,rhinorrhée"
+762,rhinorrhee douleur thoracique,rhinorrhée douleur thoracique,rhinorrhée
+763,difficulte respiratoire rhinorhee douleur abdominal,difficulté respiratoire rhinorrhée douleur abdominale,"Douleurs musculaires,rhinorrhée"
+764,tachypnee,tachypnée,None
+765,faiblesse generale,Faiblesse générale,None
+766,ecoulement nasal,écoulement nasal,None
+767,ecoulument nasal,écoulement nasal,None
+768,faiblesse generale,Faiblesse générale,None
+769,faiblesse generale  ecoulement nasal,Faiblesse générale écoulement nasal,None
+770,anorexie  faiblesse generale,Anorexie faiblesse générale,None
+771,rhinorrhee douleurs thoracique,rhinorrhée douleurs thoraciques,rhinorrhée
+772,rhinorrhee,rhinorrhée,rhinorrhée
+773,rhinorrhee,rhinorrhée,rhinorrhée
+774,coma glasgow,Coma Glasgow,None
+775,difficulte respiratoire,difficulté respiratoire,Douleurs musculaires
+776,difficulte respiratoire dypsnee rhinorhee,difficulté respiratoire dyspnée rhinorrhée,"Douleurs musculaires,rhinorrhée"
+777,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+778,probleme respiratoire,problème respiratoire,Douleurs musculaires
+779,courbature,courbature,Douleurs musculaires
+780,rhinorrhee,rhinorrhée,rhinorrhée
+781,dyspnee,dyspnée,None
+782,irratation de gorge,irritation de gorge,None
+783,vertiges,vertiges,None
+784,rhinorrhee,rhinorrhée,rhinorrhée
+785,algie diffuse,Algie diffuse,None
+786,dyspnee,dyspnée,None
+787,dyspnee,dyspnée,None
+788,rhinorrhee   constipation,rhinorrhée constipation,rhinorrhée
+789,rhinorrhee,rhinorrhée,rhinorrhée
+790,rhinorrhee,rhinorrhée,rhinorrhée
+791,rhinorrhee,rhinorrhée,rhinorrhée
+792,rhinorrhee,rhinorrhée,rhinorrhée
+793,rhinorrhee,rhinorrhée,rhinorrhée
+794,rhinorrhee,rhinorrhée,rhinorrhée
+795,rhinorrhee,rhinorrhée,rhinorrhée
+796,rhinorrhee,rhinorrhée,rhinorrhée
+797,rhinorrhee,rhinorrhée,rhinorrhée
+798,algie diffuse,Algie diffuse,None
+799,rhinorrhee,rhinorrhée,rhinorrhée
+800,dyspnnee,dyspnée,None
+801,rhinorrhee,rhinorrhée,rhinorrhée
+802,courbature,courbature,Douleurs musculaires
+803,detresse respiratoire,détresse respiratoire,Douleurs musculaires
+804,agueusie,agueusie,None
+805,anosmie,anosmie,anosmie
+806,vertiges,vertiges,None
+807,dyspnnee,dyspnée,None
+808,episgastralgie,épigastralgie,None
+809,rhinorrhee,rhinorrhée,rhinorrhée
+810,asthenie courbatures,asthénie courbatures,None
+811,polyarthralgies,polyarthralgies,None
+812,agueusie anosmie,Agueusie anosmie,anosmie
+813,agueusie anosmie,Agueusie anosmie,anosmie
+814,douleur poitrine,Douleur poitrine,None
+815,ecoulement nasal,écoulement nasal,None
+816,essoufflement manque d air,Essoufflement manque d'air,None
+817,anorexie,anorexie,None
+818,douleurs a la poitrine,Douleurs a la poitrine,None
+819,rhinorrhee,rhinorrhée,rhinorrhée
+820,douleur a la poitrine rhinorrhee,Douleur a la poitrine rhinorrhée,rhinorrhée
+821,aphtes,aphtes,None
+822,rhinorrhee dyspnee courbatures,rhinorrhée dyspnée courbatures,rhinorrhée
+823,mal de dos,Mal de dos,None
+824,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+825,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+826,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+827,anosmie,anosmie,anosmie
+828,rhinorrhee   dyspnee,rhinorrhée dyspnée,rhinorrhée
+829,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+830,rhinorrhee,rhinorrhée,rhinorrhée
+831,dyspnee  rhinorhee,dyspnée rhinorrhée,rhinorrhée
+832,rhinorrhee  dyspnee  douleurs thoracique,rhinorrhée dyspnée douleurs thoraciques,rhinorrhée
+833,chute brusque   hta   detresse respiratoire,Chute brusque HTA détresse respiratoire,Douleurs musculaires
+834,epigastralgie,épigastralgie,None
+835,rhinorrhee,rhinorrhée,rhinorrhée
+836,eternuement  pharyngite,éternuement pharyngite,None
+837,rhinorrhee,rhinorrhée,rhinorrhée
+838,difficulte  respiratoire dyspnee douleur thoracique,difficulté respiratoire dyspnée douleur thoracique,Douleurs musculaires
+839,douleurs pulmonaire,Douleurs pulmonaires,None
+840,diabete   asthma,diabète asthme,None
+841,tachycardie,tachycardie,None
+842,trouble respiratoires,Trouble respiratoire,Douleurs musculaires
+843,rhinorrhee,rhinorrhée,rhinorrhée
+844,arthralgie,arthralgie,None
+845,rhinorrhee  asthenie,rhinorrhée asthénie,rhinorrhée
+846,arthralgie,arthralgie,None
+847,maux de ventre,Maux de ventre,None
+848,rhinorrhee,rhinorrhée,rhinorrhée
+849,douleur thoraxique  dyspnee,Douleur thoracique dyspnée,None
+850,fatigabilite,fatigabilité,None
+851,myalgies,myalgies,None
+852,dyspnee,dyspnée,None
+853,pression thoracique  perte odorant,Pression thoracique perte odorante,None
+854,faiblesse generale ecoulement nasal,Faiblesse générale écoulement nasal,None
+855,douleur thoracique lombalgie courbature,Douleur thoracique lombalgie courbature,Douleurs musculaires
+856,rhinorrhee,rhinorrhée,rhinorrhée
+857,faiblesse generale,Faiblesse générale,None
+858,faiblesse generale,Faiblesse générale,None
+859,anosmie,anosmie,anosmie
+860,tachypnee,tachypnée,None
+861,rhinorrhee,rhinorrhée,rhinorrhée
+862,ecoulement nasal,écoulement nasal,None
+863,ecoulement nasal,écoulement nasal,None
+864,rhinorrhee,rhinorrhée,rhinorrhée
+865,faiblesse generale,Faiblesse générale,None
+866,pertes de gouts,Pertes de gouts,None
+867,rhinorrhee  problemes respiratoires,rhinorrhée problèmes respiratoires,rhinorrhée
+868,courbatures,courbatures,None
+869,rhinorrhee,rhinorrhée,rhinorrhée
+870,rhinorrhee,rhinorrhée,rhinorrhée
+871,rhinorrhee,rhinorrhée,rhinorrhée
+872,rhinorrhee,rhinorrhée,rhinorrhée
+873,rhinorrhee,rhinorrhée,rhinorrhée
+874,rhinorrhee,rhinorrhée,rhinorrhée
+875,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+876,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+877,rhinorrhee,rhinorrhée,rhinorrhée
+878,dyspnee,dyspnée,None
+879,dyspnee,dyspnée,None
+880,rhinorrhee  eternuements,rhinorrhée éternuements,rhinorrhée
+881,difficultes respiratoires,difficultés respiratoires,None
+882,difficultes respiratoires,difficultés respiratoires,None
+883,rhinorrhee,rhinorrhée,rhinorrhée
+884,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+885,rhinorrhee  arthralgies  allergies diffuses,rhinorrhée arthralgies allergies diffuses,rhinorrhée
+886,rhinorrhee,rhinorrhée,rhinorrhée
+887,convulsion tonico clinique generalise  auscultation pulmonaire anormale  resultats anormaux de radiographie pulmonaire,Convulsion tonique clinique généralisé auscultation pulmonaire anormale résultats anormaux de radiographie pulmonaire,None
+888,ecoulement nasal essoufflement manque d air,écoulement nasal essoufflement manque d'air,None
+889,rhinorrhee,rhinorrhée,rhinorrhée
+890,rhinorrhee,rhinorrhée,rhinorrhée
+891,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+892,anosmie  agnosie,anosmie anosmie,anosmie
+893,arthromyalgies,arthralgies,None
+894,rhinorrhee,rhinorrhée,rhinorrhée
+895,rhinorrhee,rhinorrhée,rhinorrhée
+896,rhinorrhee,rhinorrhée,rhinorrhée
+897,essouflement  manque d'air  dyspnee,essoufflement manque d'air dyspnée,None
+898,douleur retro sternale,Douleur rétro sternale,None
+899,anosmie,anosmie,anosmie
+900,faiblesse generale  ecoulement nasal  rhinorrhee  arthralgie,Faiblesse générale écoulement nasal rhinorrhée arthralgie,rhinorrhée
+901,faiblesse generale  anosmie  essouflement manque d'air,Faiblesse générale anosmie essoufflement manque d'air,anosmie
+902,ecoulement nasal,écoulement nasal,None
+903,faiblesse generale  essouflement manque d'air  dyspnee tachypnee  arthalgies  auscultation pulmonaire,Faiblesse générale essoufflement manque d'air dyspnée tachypnée arthralgies auscultation pulmonaire,None
+904,tachycardie,tachycardie,None
+905,orthopnee,orthopnée,None
+906,agueusie,agueusie,None
+907,rhinorrhee douleurs retro orbitaire,rhinorrhée douleurs rétro orbitaire,rhinorrhée
+908,epigastralgie,épigastralgie,None
+909,agueusie  anosmie,Agueusie anosmie,anosmie
+910,polyarthralgie,polyarthralgie,None
+911,courbatures,courbatures,None
+912,ecoulement nasal,écoulement nasal,None
+913,essouflement  manque d'air  agueusie  anosmie,essoufflement manque d'air agueusie anosmie,anosmie
+914,rhinorrhee,rhinorrhée,rhinorrhée
+915,rhinorrhee,rhinorrhée,rhinorrhée
+916,rhinorrhee,rhinorrhée,rhinorrhée
+917,douleur thoraxique,Douleur thoracique,None
+918,algies diffuse,Algies diffuses,None
+919,insuline,insuline,None
+920,ecoulement nasal vertiges courbatures,écoulement nasaux vertiges courbatures,None
+921,ecoulement nasal anosmie  allergies diffuses,écoulement nasale anosmie allergies diffuses,anosmie
+922,rhinorrhee,rhinorrhée,rhinorrhée
+923,difficultes respiratoires,difficultés respiratoires,None
+924,sueurs,sueurs,None
+925,difficultes respiratoires  douleur thoraxique,difficultés respiratoires douleur thoracique,None
+926,rhinorrhee  eternuement,rhinorrhée éternuement,rhinorrhée
+927,rhinorrhee,rhinorrhée,rhinorrhée
+928,rhinorrhee,rhinorrhée,rhinorrhée
+929,rhinorrhee,rhinorrhée,rhinorrhée
+930,rhinorrhee,rhinorrhée,rhinorrhée
+931,femme en etat de grossesse a terme,Femme en état de grossesse à terme,None
+932,rhinorrhee,rhinorrhée,rhinorrhée
+933,rhinorrhee dypsnee,rhinorrhée dyspnée,rhinorrhée
+934,desaturation a 88  neoprotate hypetendu,désaturation a 88 néo-romane hypertendu,None
+935,courbatures,courbatures,None
+936,rhinorrhee algies diffuse,rhinorrhée algies diffuses,rhinorrhée
+937,rhinorrhee,rhinorrhée,rhinorrhée
+938,difficultes respiratoires,difficultés respiratoires,None
+939,rhinorrhee,rhinorrhée,rhinorrhée
+940,dyspnee douleur,dyspnée douleur,None
+941,douleur thoraxique,Douleur thoracique,None
+942,difficultes respiratoires  douleur thoraxique,difficultés respiratoires douleur thoracique,None
+943,irritation  de la gorge,Irritation de la gorge,None
+944,rhinorrhee,rhinorrhée,rhinorrhée
+945,douleur thoracique,Douleur thoracique,None
+946,anosmie  courbatures,anosmie courbatures,anosmie
+947,dyspnee disproportionnelle,dyspnée disproportionnelle,None
+948,essouflement  manque d'air  dyspnee,essoufflement manque d'air dyspnée,None
+949,essouflement  manque d'air  dyspnee,essoufflement manque d'air dyspnée,None
+950,rhinorrhee,rhinorrhée,rhinorrhée
+951,rhinorrhee,rhinorrhée,rhinorrhée
+952,allergies diffuses,Allergies diffuses,None
+953,rhinorrhee,rhinorrhée,rhinorrhée
+954,difficultes respiratoires,difficultés respiratoires,None
+955,dyspnee,dyspnée,None
+956,vertiges insomnie anemie,Vertiges insomnie anosmie,anosmie
+957,rhinorrhee,rhinorrhée,rhinorrhée
+958,allergies diffuses,Allergies diffuses,None
+959,anosmie,anosmie,anosmie
+960,ecoulement nasal,écoulement nasal,None
+961,essouflement,essoufflement,None
+962,faiblesse generale,Faiblesse générale,None
+963,tachypnee,tachypnée,None
+964,anthalgie,antalgie,None
+965,douleur thoracique  dyspnee,Douleur thoracique dyspnée,None
+966,rhinorrhee,rhinorrhée,rhinorrhée
+967,douleur thoracique  lombalgie,Douleur thoracique lombalgie,None
+968,arthromyalgies essouflement,arthralgies essoufflement,None
+969,rhinorrhee,rhinorrhée,rhinorrhée
+970,rhinorrhee,rhinorrhée,rhinorrhée
+971,mpec,mec,None
+972,rhinorrhee algies diffuse,rhinorrhée algies diffuses,rhinorrhée
+973,douleur pelvienne,Douleur pelvienne,None
+974,rhinorrhee,rhinorrhée,rhinorrhée
+975,troubles respiratoire douleur de la poitrine,Troubles respiratoire douleur de la poitrine,Douleurs musculaires
+976,perte de gout d appetit,Perte de gout d'appetit,None
+977,ecoulement nasal  eternuement,écoulement nasal éternuement,None
+978,ecoulement nasal  eternuement,écoulement nasal éternuement,None
+979,essoufflement manque d air,Essoufflement manque d'air,None
+980,essoufflement manque d air,Essoufflement manque d'air,None
+981,rhinorrhee,rhinorrhée,rhinorrhée
+982,anosmie,anosmie,anosmie
+983,rhinorrhee  essouflement  douleur epigastrique,rhinorrhée essoufflement douleur épigastrique,rhinorrhée
+984,ecoulement nasal,écoulement nasal,None
+985,rhinorrhee  essouflement  douleur thoracique,rhinorrhée essoufflement douleur thoracique,rhinorrhée
+986,dyspnee  douleur throracique,dyspnée douleur thoracique,None
+987,essouflement  manque d'air  agueusie  anosmie,essoufflement manque d'air agueusie anosmie,anosmie
+988,dyspnee,dyspnée,None
+989,faiblesse generale,Faiblesse générale,None
+990,ecoulement nasal,écoulement nasal,None
+991,tachycardie,tachycardie,None
+992,rhinorrhee,rhinorrhée,rhinorrhée
+993,perte du gout,Perte du gout,None
+994,dyspnee,dyspnée,None
+995,dyspnee deffort,dyspnée d'effort,None
+996,douleurs lombaires,Douleurs lombaires,None
+997,rhinorrhee vertiges,rhinorrhée vertiges,rhinorrhée
+998,rhinorrhee,rhinorrhée,rhinorrhée
+999,allergies diffuse,Allergies diffuses,None
+1000,rhinorrhee,rhinorrhée,rhinorrhée
+1001,alergies,allergies,None
+1002,alergies,allergies,None
+1003,rhinorrhee,rhinorrhée,rhinorrhée
+1004,rhinorrhee,rhinorrhée,rhinorrhée
+1005,detresse respiratoire,détresse respiratoire,Douleurs musculaires
+1006,rhinorrhee anosmie agnosie,rhinorrhée anosmie anosmie,"anosmie,rhinorrhée"
+1007,rhinorrhee,rhinorrhée,rhinorrhée
+1008,dyspnee,dyspnée,None
+1009,arthromyalgies,arthralgies,None
+1010,symptomologie,symptomatologie,None
+1011,rhinorrhee,rhinorrhée,rhinorrhée
+1012,dyspnee  rhinorrhee,dyspnée rhinorrhée,rhinorrhée
+1013,eternuement  rhinorrhee,éternuement rhinorrhée,rhinorrhée
+1014,essouflement  manque d'air  agueusie  anosmie,essoufflement manque d'air agueusie anosmie,anosmie
+1015,faiblesse generale  ecoulement nasal,Faiblesse générale écoulement nasal,None
+1016,tachypnee,tachypnée,None
+1017,asymptomatique,asymptomatique,None
+1018,asthmatique,asthmatique,None
+1019,opere cancer du sein,opère cancer du sein,None
+1020,vertiges,vertiges,None
+1021,courbatures,courbatures,None
+1022,coeur pulmonaire chronique,cœur pulmonaire chronique,None
+1023,gene respiratoire,gène respiratoire,Douleurs musculaires
+1024,dyspnee,dyspnée,None
+1025,sueurs,sueurs,None
+1026,rhinorrhee,rhinorrhée,rhinorrhée
+1027,gene respiratoire,gène respiratoire,Douleurs musculaires
+1028,gene respiratoire  courbature,gène respiratoire courbature,Douleurs musculaires
+1029,arthralgies,arthralgies,None
+1030,rhinorrhee  vertiges difficulte a respirer,rhinorrhée vertiges difficulté à respirer,rhinorrhée
+1031,nausees,nausées,None
+1032,dyspnee,dyspnée,None
+1033,3 mois de grossesse saignement,3 mois de grossesse saignement,None
+1034,rhume,rhume,None
+1035,arthralgie   myalgies   anosmie   hypogueusie,Arthralgie myalgies anosmie hypogée,anosmie
+1036,rhinorrhee arthralgies,rhinorrhée arthralgies,rhinorrhée
+1037,rhinorrhee arthralgies,rhinorrhée arthralgies,rhinorrhée
+1038,douleur abdominal,Douleur abdominale,None
+1039,malaise,malaise,None
+1040,althralgies   dyspnee,arthralgies dyspnée,None
+1041,anosmie  essoufflement manque d'air,anosmie essoufflement manque d'air,anosmie
+1042,ecoulement nasal,écoulement nasal,None
+1043,anosmie,anosmie,anosmie
+1044,rhinorrhee,rhinorrhée,rhinorrhée
+1045,essouflement  manque d'air,essoufflement manque d'air,None
+1046,rhinorrhee  fievre d'allegation,rhinorrhée fièvre d'allégation,rhinorrhée
+1047,faiblesse generale,Faiblesse générale,None
+1048,ecoulement nasal,écoulement nasal,None
+1049,faiblesse generale   douleurs thoracique,Faiblesse générale douleurs thoracique,None
+1050,anosmie,anosmie,anosmie
+1051,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1052,douleur lombaire,Douleur lombaire,None
+1053,rhinorrhee,rhinorrhée,rhinorrhée
+1054,rhinorrhee,rhinorrhée,rhinorrhée
+1055,dyspnee,dyspnée,None
+1056,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+1057,troubles respiratoires,Troubles respiratoires,None
+1058,lombalgie,lombalgie,None
+1059,difficulte respiratoire dyspnee toux chronique anemie severe,difficulté respiratoire dyspnée toux chronique anosmie sévère,"anosmie,Douleurs musculaires"
+1060,dyspnee douleur thoracique algies diffuse,dyspnée douleur thoracique algies diffuse,None
+1061,dyspnee douleur thoracique,dyspnée douleur thoracique,None
+1062,douleur thoracique,Douleur thoracique,None
+1063,hoquet,hoquet,None
+1064,douleur thoracique,Douleur thoracique,None
+1065,dyspnee douleurs thoraciques,dyspnée douleurs thoraciques,None
+1066,rhinorrhee  dyspnee,rhinorrhée dyspnée,rhinorrhée
+1067,rhinorrhee  dyspnee,rhinorrhée dyspnée,rhinorrhée
+1068,rhinorrhee  dyspnee  douleurs lombaires,rhinorrhée dyspnée douleurs lombaires,rhinorrhée
+1069,rhinorrhee  cervicalgie,rhinorrhée cervicalgie,rhinorrhée
+1070,essouflement   manque d'air,essoufflement manque d'air,None
+1071,crises convulsives syndrome infectieux,Crises convulsives syndrome infectieux,None
+1072,douleur thoracique,Douleur thoracique,None
+1073,douleur poitrine,Douleur poitrine,None
+1074,douleurs poitrine,Douleurs poitrine,None
+1075,faiblesse generale  ecoulement nasal  rhinorrhee  arthralgie,Faiblesse générale écoulement nasal rhinorrhée arthralgie,rhinorrhée
+1076,anosmie,anosmie,anosmie
+1077,faiblesse generale  anosmie,Faiblesse générale anosmie,anosmie
+1078,courbatures,courbatures,None
+1079,rhinorrhee,rhinorrhée,rhinorrhée
+1080,rhinorrhee  anosmie  agnosie,rhinorrhée anosmie anosmie,"anosmie,rhinorrhée"
+1081,rhinorrhee,rhinorrhée,rhinorrhée
+1082,tabagisme,tabagisme,None
+1083,rhinorrhee,rhinorrhée,rhinorrhée
+1084,ecoulement nasal  faiblesse generale,écoulement nasal faiblesse générale,None
+1085,ecoulement nasale,écoulement nasale,None
+1086,vertiges,vertiges,None
+1087,dyspnee tachypnee,dyspnée tachypnée,None
+1088,difficulte  respiratoire rhinorhee,difficulté respiratoire rhinorrhée,"Douleurs musculaires,rhinorrhée"
+1089,antecedent fievre,antécédent fièvre,None
+1090,douleur thoracique,Douleur thoracique,None
+1091,dyspnee,dyspnée,None
+1092,anosmie,anosmie,anosmie
+1093,rhinorrhee,rhinorrhée,rhinorrhée
+1094,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+1095,rhinorrhee  troubles conscience   dyspnee,rhinorrhée trouble conscience dyspnée,rhinorrhée
+1096,rhinorrhee dyspnee,rhinorrhée dyspnée,rhinorrhée
+1097,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1098,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1099,rhinorrhee   courbatures   dyspnee,rhinorrhée courbatures dyspnée,rhinorrhée
+1100,rhinorrhee,rhinorrhée,rhinorrhée
+1101,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+1102,rhinorrhee  troubles respiratoires,rhinorrhée troubles respiratoires,rhinorrhée
+1103,rhinorrhee,rhinorrhée,rhinorrhée
+1104,rhinorrhee   dyspnee   neuropathie,rhinorrhée dyspnée neuropathie,rhinorrhée
+1105,courbatures,courbatures,None
+1106,ecoulement nasal,écoulement nasal,None
+1107,douleurs poitrine,Douleurs poitrine,None
+1108,diabetique,diabétique,None
+1109,courbatures,courbatures,None
+1110,rhinorrhee,rhinorrhée,rhinorrhée
+1111,dyspnee  douleurs thoraciques,dyspnée douleurs thoraciques,None
+1112,trouble respiratoires,Trouble respiratoire,Douleurs musculaires
+1113,rhinorrhee,rhinorrhée,rhinorrhée
+1114,lombalgies,lombalgies,None
+1115,vertiges,vertiges,None
+1116,rhinorrhee,rhinorrhée,rhinorrhée
+1117,rhinorrhee,rhinorrhée,rhinorrhée
+1118,rhinorrhee,rhinorrhée,rhinorrhée
+1119,rhinorrhee,rhinorrhée,rhinorrhée
+1120,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1121,rhinorrhee,rhinorrhée,rhinorrhée
+1122,rhinorrhee difficulte respiratoire dyspnee,rhinorrhée difficulté respiratoire dyspnée,"Douleurs musculaires,rhinorrhée"
+1123,rhinorrhee difficulte respiratoire dyspnee,rhinorrhée difficulté respiratoire dyspnée,"Douleurs musculaires,rhinorrhée"
+1124,lombalgie  essouflement,Lombalgie essoufflement,None
+1125,allergie diffuse,Allergie diffuse,None
+1126,rhinorrhee,rhinorrhée,rhinorrhée
+1127,rhinorrhee,rhinorrhée,rhinorrhée
+1128,rhinorrhee  anosmie,rhinorrhée anosmie,"anosmie,rhinorrhée"
+1129,essouflement  manque d'air  dyspnee,essoufflement manque d'air dyspnée,None
+1130,rhinorrhee dyspnee bouffer de chaleur,rhinorrhée dyspnée bouffer de chaleur,rhinorrhée
+1131,malaise,malaise,None
+1132,rhinorrhee,rhinorrhée,rhinorrhée
+1133,arthromyalgies,arthralgies,None
+1134,ecoulement nasal,écoulement nasal,None
+1135,ecoulement nasal,écoulement nasal,None
+1136,faiblesse generale,Faiblesse générale,None
+1137,douleurs thoraciques,Douleurs thoraciques,None
+1138,rhinorrhee douleur thoracique dyspnee,rhinorrhée douleur thoracique dyspnée,rhinorrhée
+1139,dyspnee,dyspnée,None
+1140,rhinorrhee,rhinorrhée,rhinorrhée
+1141,rhinorrhee,rhinorrhée,rhinorrhée
+1142,douleur thoracique algies diffuse,Douleur thoracique algies diffuse,None
+1143,rhinorrhee  algies diffuses,rhinorrhée algies diffuses,rhinorrhée
+1144,fatigue,fatigue,Douleurs musculaires
+1145,rhinorrhee,rhinorrhée,rhinorrhée
+1146,rhinorrhee  dysnee,rhinorrhée dyspnée,rhinorrhée
+1147,douleur thoraxique,Douleur thoracique,None
+1148,allergies diffuses,Allergies diffuses,None
+1149,rhinorrhee  dyspnee,rhinorrhée dyspnée,rhinorrhée
+1150,allergie diffuse,Allergie diffuse,None
+1151,dyspnee,dyspnée,None
+1152,rhinorrhee,rhinorrhée,rhinorrhée
+1153,rhinorrhee,rhinorrhée,rhinorrhée
+1154,rhinorrhee,rhinorrhée,rhinorrhée
+1155,rhinorrhee,rhinorrhée,rhinorrhée
+1156,dyspnee,dyspnée,None
+1157,rhinorrhee,rhinorrhée,rhinorrhée
+1158,vitamine,vitamine,None
+1159,anorexie,anorexie,None
+1160,dyspnee,dyspnée,None
+1161,rhinorrhee  dyspnee  eternuements,rhinorrhée dyspnée éternuements,rhinorrhée
+1162,rhinorrhee   eternuement  dyspnee,rhinorrhée éternuement dyspnée,rhinorrhée
+1163,rhinorrhee,rhinorrhée,rhinorrhée
+1164,vertiges,vertiges,None
+1165,ecoulement nasal,écoulement nasal,None
+1166,rhinorrhee,rhinorrhée,rhinorrhée
+1167,rhinorrhee,rhinorrhée,rhinorrhée
+1168,dyspnee  arthralgies,dyspnée arthralgies,None
+1169,rhinorrhee,rhinorrhée,rhinorrhée
+1170,epigastralgies,épigastralgies,None
+1171,ecoulement nasal,écoulement nasal,None
+1172,rhinorrhee,rhinorrhée,rhinorrhée
+1173,rhinorrhee,rhinorrhée,rhinorrhée
+1174,rhinorrhee difficulte respiratoire dyspnee,rhinorrhée difficulté respiratoire dyspnée,"Douleurs musculaires,rhinorrhée"
+1175,rhinorrhee difficulte respiratoire dyspnee,rhinorrhée difficulté respiratoire dyspnée,"Douleurs musculaires,rhinorrhée"
+1176,rhinorrhee,rhinorrhée,rhinorrhée
+1177,anosmie hypogueusie,anosmie hypogée,anosmie
+1178,ecoulement nasal,écoulement nasal,None
+1179,anosmie,anosmie,anosmie
+1180,e  faiblesse generale,E faiblesse générale,None
+1181,rhinorrhee courbatures,rhinorrhée courbatures,rhinorrhée
+1182,rhinorrhee courbatures difficulte de respirer,rhinorrhée courbatures difficulté de respirer,rhinorrhée
+1183,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+1184,trouble respiratoire perte d'appetit,Trouble respiratoire perte d'appétit,Douleurs musculaires
+1185,perte du gout,Perte du gout,None
+1186,asthme,asthme,None
+1187,courbatures,courbatures,None
+1188,rhinorrhee,rhinorrhée,rhinorrhée
+1189,dyspnee,dyspnée,None
+1190,rhinorrhee,rhinorrhée,rhinorrhée
+1191,rhinorrhee,rhinorrhée,rhinorrhée
+1192,arthralgies  lombargies,Arthralgies lombalgies,None
+1193,rhinorrhee,rhinorrhée,rhinorrhée
+1194,ecoulement nasal,écoulement nasal,None
+1195,perte du gout,Perte du gout,None
+1196,rhinorrhee,rhinorrhée,rhinorrhée
+1197,rhinorrhee,rhinorrhée,rhinorrhée
+1198,dyspnee,dyspnée,None
+1199,rhinorrhee,rhinorrhée,rhinorrhée
+1200,rhinorrhee,rhinorrhée,rhinorrhée
+1201,arthromyalgies  irritation de la gorge,arthralgies irritation de la gorge,None
+1202,arthralgie  lombargies,Arthralgie lombalgies,None
+1203,anosmie,anosmie,anosmie
+1204,essouflement  manque d'air  dyspnee,essoufflement manque d'air dyspnée,None
+1205,rhinorrhee,rhinorrhée,rhinorrhée
+1206,rhinorrhee,rhinorrhée,rhinorrhée
+1207,rhinorrhee  anosmie  agnosie,rhinorrhée anosmie anosmie,"anosmie,rhinorrhée"
+1208,arthromyalgies,arthralgies,None
+1209,rhinorrhee,rhinorrhée,rhinorrhée
+1210,rhinorrhee,rhinorrhée,rhinorrhée
+1211,ecoulement nasal,écoulement nasal,None
+1212,douleur thoracique,Douleur thoracique,None
+1213,rhinorrhee,rhinorrhée,rhinorrhée
+1214,anosmie,anosmie,anosmie
+1215,ecoulement nasal,écoulement nasal,None
+1216,faiblesse generale,Faiblesse générale,None
+1217,dyspnee  rhinorrhee,dyspnée rhinorrhée,rhinorrhée
+1218,rhinorrhee  dyspnee,rhinorrhée dyspnée,rhinorrhée
+1219,courbatures   dyspnee   artalgie,Courbatures dyspnée arthralgie,None
+1220,rhinorrhee,rhinorrhée,rhinorrhée
+1221,douleur thoracique,Douleur thoracique,None
+1222,ecoulement nasale,écoulement nasale,None
+1223,rhinorrhee,rhinorrhée,rhinorrhée
+1224,rhinorrhee,rhinorrhée,rhinorrhée
+1225,troubles respiratoires,Troubles respiratoires,None
+1226,rhinorrhee,rhinorrhée,rhinorrhée
+1227,douleur thoracique  troubles respiratoires,Douleur thoracique trouble respiratoires,None
+1228,allergies diffuses,Allergies diffuses,None
+1229,rhinorrhee  rhinite,rhinorrhée rhinite,rhinorrhée
+1230,rhinorrhee,rhinorrhée,rhinorrhée
+1231,ecoulement nasal,écoulement nasal,None
+1232,ecoulement nasal,écoulement nasal,None
+1233,courbatures,courbatures,None
+1234,ecoulement nasal,écoulement nasal,None
+1235,rhinorrhee,rhinorrhée,rhinorrhée
+1236,arthralgie,arthralgie,None
+1237,dyspnee,dyspnée,None
+1238,rhinorrhee,rhinorrhée,rhinorrhée
+1239,rhinorrhee,rhinorrhée,rhinorrhée
+1240,ecoulement nasal faiblesse generale,écoulement nasale faiblesse générale,None
+1241,allergies diffuses,Allergies diffuses,None
+1242,rhinorrhee,rhinorrhée,rhinorrhée
+1243,essouflement  anosmie,essoufflement anosmie,anosmie
+1244,rhinorrhee,rhinorrhée,rhinorrhée
+1245,febicule,fébricule,None
+1246,rhinorrhee,rhinorrhée,rhinorrhée
+1247,rhinorrhee,rhinorrhée,rhinorrhée
+1248,rhinorrhee,rhinorrhée,rhinorrhée
+1249,rhinorrhee,rhinorrhée,rhinorrhée
+1250,assyptomatique,asymptomatique,None
+1251,rhinorrhee,rhinorrhée,rhinorrhée
+1252,rhinorrhee,rhinorrhée,rhinorrhée
+1253,expectoration,expectoration,None
+1254,dyspnee,dyspnée,None
+1255,hypertension,hypertension,None
+1256,diabetique et cardiaque,diabétique et cardiaque,None
+1257,asmathique,asiatique,None
+1258,diabetique,diabétique,None
+1259,diabetique et asmathique,diabétique et asiatique,None
+1260,difficultes respiratoires,difficultés respiratoires,None
+1261,rhinorrhee,rhinorrhée,rhinorrhée
+1262,rhinorrhee,rhinorrhée,rhinorrhée
+1263,rhinorrhee,rhinorrhée,rhinorrhée
+1264,courbature,courbature,Douleurs musculaires
+1265,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1266,douleur thoracique,Douleur thoracique,None
+1267,fatiguement,fatiguèrent,None
+1268,courbatures,courbatures,None
+1269,courbatures,courbatures,None
+1270,assyptomatique,asymptomatique,None
+1271,rhinorrhee,rhinorrhée,rhinorrhée
+1272,rhinorrhee,rhinorrhée,rhinorrhée
+1273,assyptomatique,asymptomatique,None
+1274,assyptomatique,asymptomatique,None
+1275,ecoulement nasale,écoulement nasale,None
+1276,faiblesse generale,Faiblesse générale,None
+1277,ecoulement nasal,écoulement nasal,None
+1278,ecoulement nasale,écoulement nasale,None
+1279,essouflement   manque d'air,essoufflement manque d'air,None
+1280,faiblesse generale,Faiblesse générale,None
+1281,algie diffuse,Algie diffuse,None
+1282,insomnie,insomnie,None
+1283,insomnie,insomnie,None
+1284,rhinorrhee,rhinorrhée,rhinorrhée
+1285,rhinorrhee,rhinorrhée,rhinorrhée
+1286,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1287,rhinorrhee,rhinorrhée,rhinorrhée
+1288,rhinorrhee difficulte  respiratoire dyspnee,rhinorrhée difficulté respiratoire dyspnée,"Douleurs musculaires,rhinorrhée"
+1289,rhinorrhee douleur thoracique algie diffuse,rhinorrhée douleur thoracique algie diffuse,rhinorrhée
+1290,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1291,rhinorrhee,rhinorrhée,rhinorrhée
+1292,assyptomatique,asymptomatique,None
+1293,assyptomatique,asymptomatique,None
+1294,assyptomatique,asymptomatique,None
+1295,assyptomatique,asymptomatique,None
+1296,assyptomatique,asymptomatique,None
+1297,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1298,rhinorrhee polyarthralgies,rhinorrhée polyarthralgies,rhinorrhée
+1299,rhinorrhee  allergie diffuse,rhinorrhée allergie diffuse,rhinorrhée
+1300,rhinorrhee   algies diffuses,rhinorrhée algies diffuses,rhinorrhée
+1301,rhinorrhee,rhinorrhée,rhinorrhée
+1302,asmathique,asiatique,None
+1303,vertiges,vertiges,None
+1304,dyspnee,dyspnée,None
+1305,rhinorrhee,rhinorrhée,rhinorrhée
+1306,rhinorrhee,rhinorrhée,rhinorrhée
+1307,douleur thoracique gene respiratoire,Douleur thoracique gène respiratoire,Douleurs musculaires
+1308,dyspnee,dyspnée,None
+1309,rhinorrhee,rhinorrhée,rhinorrhée
+1310,epigrastralcie,épigastralgie,None
+1311,vertiges,vertiges,None
+1312,rhinorrhee,rhinorrhée,rhinorrhée
+1313,rhinorrhee,rhinorrhée,rhinorrhée
+1314,douleurs thoraciques,Douleurs thoraciques,None
+1315,douleurs thoraciques constipation,Douleurs thoraciques constipation,None
+1316,douleur thoraxique,Douleur thoracique,None
+1317,rhinorrhee,rhinorrhée,rhinorrhée
+1318,rhinorrhee,rhinorrhée,rhinorrhée
+1319,rhinorrhee,rhinorrhée,rhinorrhée
+1320,rhinorrhee,rhinorrhée,rhinorrhée
+1321,rhinorrhee,rhinorrhée,rhinorrhée
+1322,rhinorrhee,rhinorrhée,rhinorrhée
+1323,rhinorrhee,rhinorrhée,rhinorrhée
+1324,rhinorrhee  allergies diffuses,rhinorrhée allergies diffuses,rhinorrhée
+1325,lombalgie  antecedent de toux,Lombalgie antécédent de toux,None
+1326,anosmie,anosmie,anosmie
+1327,insuffisance respiratoire,Insuffisance respiratoire,Douleurs musculaires
+1328,rhinorrhee,rhinorrhée,rhinorrhée
+1329,douleur thoracique,Douleur thoracique,None
+1330,obstruction nasale,Obstruction nasale,None
+1331,asymptomatique,asymptomatique,None
+1332,rhinorrhee,rhinorrhée,rhinorrhée
+1333,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+1334,courbatures,courbatures,None
+1335,rhinorrhee,rhinorrhée,rhinorrhée
+1336,allergies diffuses,Allergies diffuses,None
+1337,rhinorrhee  anosmie  agnosie,rhinorrhée anosmie anosmie,"anosmie,rhinorrhée"
+1338,rhinorrhee,rhinorrhée,rhinorrhée
+1339,rhinorrhee douleurs  abdominale   arthragies  ,rhinorrhée douleurs abdominales arthralgies ,rhinorrhée
+1340,dyspnee,dyspnée,None
+1341,dyspnee  rhinorrhee,dyspnée rhinorrhée,rhinorrhée
+1342,rhinorrhee,rhinorrhée,rhinorrhée
+1343,arthralgies  rhinorrhee,Arthralgies rhinorrhée,rhinorrhée
+1344,rhinorrhee,rhinorrhée,rhinorrhée
+1345,essouflement,essoufflement,None
+1346,dyspnee,dyspnée,None
+1347,rhinorrhee,rhinorrhée,rhinorrhée
+1348,dyspnee  rhinorrhee,dyspnée rhinorrhée,rhinorrhée
+1349,rhinorrhee,rhinorrhée,rhinorrhée
+1350,rhinorrhee  allergie diffuse,rhinorrhée allergie diffuse,rhinorrhée
+1351,rhinorrhee,rhinorrhée,rhinorrhée
+1352,rhinorrhee,rhinorrhée,rhinorrhée
+1353,rhinorrhee,rhinorrhée,rhinorrhée
+1354,rhinorrhee  allergie diffuse,rhinorrhée allergie diffuse,rhinorrhée
+1355,rhinorrhee,rhinorrhée,rhinorrhée
+1356,rhinorrhee,rhinorrhée,rhinorrhée
+1357,rhinorrhee,rhinorrhée,rhinorrhée
+1358,deficit hemicorporel,déficit hemicorporel,None
+1359,allergie diffuse,Allergie diffuse,None
+1360,fievre nocturne,fièvre nocturne,None
+1361,rhinorrhee,rhinorrhée,rhinorrhée
+1362,rhinorrhee,rhinorrhée,rhinorrhée
+1363,asymptomatique,asymptomatique,None
+1364,douleurs abdominale,Douleurs abdominales,None
+1365,essouflement manque d'air   perte d'appetit  anteczdent fievre,essoufflement manque d'air perte d'appétit antécédent fièvre,None
+1366,courbatures,courbatures,None
+1367,antecedent fievre,antécédent fièvre,None
+1368,rhinorrhee,rhinorrhée,rhinorrhée
+1369,troubles respiratoires,Troubles respiratoires,None
+1370,douleurs thoraciques,Douleurs thoraciques,None
+1371,insomnie,insomnie,None
+1372,courbatures,courbatures,None
+1373,courbatures,courbatures,None
+1374,ecoulement nasal,écoulement nasal,None
+1375,ecoulement nasal,écoulement nasal,None
+1376,pertes de l odorat,Pertes de l'odorat,None
+1377,rhinorrhee douleur thoracique,rhinorrhée douleur thoracique,rhinorrhée
+1378,difficulte respiratoire dyspnee rhinorhee,difficulté respiratoire dyspnée rhinorrhée,"Douleurs musculaires,rhinorrhée"
+1379,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1380,rhinorrhee,rhinorrhée,rhinorrhée
+1381,ecoulement nasale,écoulement nasale,None
+1382,difficulte  respiratoire   argumentideologique lesion  pulmonaire droite,difficulté respiratoire argumentideologique lésion pulmonaire droite,Douleurs musculaires
+1383,douleurs abdominale,Douleurs abdominales,None
+1384,vertiges,vertiges,None
+1385,rhinorrhee,rhinorrhée,rhinorrhée
+1386,rhinorrhee   antecedant de fievre,rhinorrhée antécédent de fièvre,rhinorrhée
+1387,vertiges,vertiges,None
+1388,essouflement   manque d'air irritablite,essoufflement manque d'air irritabilité,None
+1389,difficulte respiratoire,difficulté respiratoire,Douleurs musculaires
+1390,trouble respiratoire,Trouble respiratoire,Douleurs musculaires
+1391,rhinorrhee,rhinorrhée,rhinorrhée
+1392,rhinorrhee,rhinorrhée,rhinorrhée
+1393,faiblesse generale,Faiblesse générale,None
+1394,ecoulement nasal,écoulement nasal,None
+1395,rhinorrhee,rhinorrhée,rhinorrhée
+1396,rhinorrhee,rhinorrhée,rhinorrhée
+1397,dyspnee,dyspnée,None
+1398,rhinorrhee,rhinorrhée,rhinorrhée
+1399,essouflement  manque d'air  dyspnee,essoufflement manque d'air dyspnée,None
+1400,faiblesse generale,Faiblesse générale,None
+1401,rhinorrhee difficultes de respirer,rhinorrhée difficultés de respirer,rhinorrhée
+1402,difficultes respiratoires,difficultés respiratoires,None
+1403,rhinorrhee,rhinorrhée,rhinorrhée
+1404,etouffement,étouffement,None
+1405,rhinorrhee,rhinorrhée,rhinorrhée
+1406,rhinorrhee,rhinorrhée,rhinorrhée
+1407,rhinorrhee,rhinorrhée,rhinorrhée
+1408,rhinorrhee,rhinorrhée,rhinorrhée
+1409,rhinorrhee,rhinorrhée,rhinorrhée
+1410,rhinorrhee,rhinorrhée,rhinorrhée
+1411,rhinorrhee  dysnee  precardiaque,rhinorrhée dyspnée cardiaque,rhinorrhée
+1412,asymptomatique,asymptomatique,None
+1413,lombalgie,lombalgie,None
+1414,eternuement,éternuement,None
+1415,difficultes respiratoires,difficultés respiratoires,None
+1416,rhinorrhee,rhinorrhée,rhinorrhée
+1417,asthme,asthme,None
+1418,lombalgies rhinorrhee cephalees,Lombalgies rhinorrhée céphalées,rhinorrhée
+1419,difficulte respiratoire dyspnee rhinorhee,difficulté respiratoire dyspnée rhinorrhée,"Douleurs musculaires,rhinorrhée"
+1420,difficulte respiratoire dypsnee rhinorhee,difficulté respiratoire dyspnée rhinorrhée,"Douleurs musculaires,rhinorrhée"
+1421,manque d'appetit,Manque d'appétit,None
+1422,nez bouche,Nez bouche,None
+1423,nez bouche   troubles respiratoires,Nez bouche troubles respiratoires,None
+1424,rhinorrhee  sueurs  anosmie,rhinorrhée sueurs anosmie,"anosmie,rhinorrhée"
+1425,anosmie,anosmie,anosmie
+1426,douleur  abdominale,Douleur abdominale,None
+1427,sueur,sueur,None
+1428,manque d'appetit,Manque d'appétit,None
+1429,courbature,courbature,Douleurs musculaires
+1430,douleur thoracique  dyspnee,Douleur thoracique dyspnée,None
+1431,rhinorrhee,rhinorrhée,rhinorrhée
+1432,rhinorrhee,rhinorrhée,rhinorrhée
+1433,douleurs gastriques,Douleurs gastriques,None
+1434,dermatose,dermatose,None
+1435,sinusites,sinusites,None
+1436,eternuments,éternuements,None
+1437,eternuments,éternuements,None
+1438,myalgies asthenie physique,Myalgies asthénie physique,None
+1439,cephalees myalgies,céphalées myalgies,None
+1440,perte de l'odorat,Perte de l'odorat,None
+1441,asymptomatique,asymptomatique,None
+1442,asymptomatique,asymptomatique,None
+1443,ecoulement nasal,écoulement nasal,None
+1444,rhinorrhee,rhinorrhée,rhinorrhée
+1445,rhinorrhee myalgie,rhinorrhée myalgie,rhinorrhée
+1446,debut de grossesse avec amenorrhee de 1 mois,début de grossesse avec aménorrhée de 1 mois,None
+1447,difficultes respiratoires dyspnee rhinorrhee,difficultés respiratoires dyspnée rhinorrhée,rhinorrhée
+1448,rhinorrhee antibiotherapie antalgique,rhinorrhée antibiothérapie antalgique,rhinorrhée
+1449,difficultes respiratoires dyspnee rhinorrhee,difficultés respiratoires dyspnée rhinorrhée,rhinorrhée
+1450,rhinorrhee,rhinorrhée,rhinorrhée
+1451,antecedent fievre,antécédent fièvre,None
+1452,asymptomatique,asymptomatique,None
+1453,rhinorrhee,rhinorrhée,rhinorrhée
+1454,rhinorrhee,rhinorrhée,rhinorrhée
+1455,cephalees,céphalées,None
+1456,congestion nasale,Congestion nasale,None
+1457,antecedent fievre   douleurs poitrine,antécédent fièvre douleurs poitrine,None
+1458,courbure,courbure,None
+1459,antecedent de fievre frissons faiblesse generale cephalees,antécédent de fièvre frissons faiblesse générale céphalées,None
+1460,rhinorrhee,rhinorrhée,rhinorrhée
+1461,dyspnee,dyspnée,None
+1462,faiblesse generale,Faiblesse générale,None
+1463,sinusite,sinusite,None
+1464,rhinorrhee dysnee,rhinorrhée dyspnée,rhinorrhée
+1465,eruption des commissures labiales,éruption des commissures labiales,None
+1466,rhinorrhee,rhinorrhée,rhinorrhée
+1467,dyspnee douleur thoracique,dyspnée douleur thoracique,None
+1468,rhinorrhee dyspnee,rhinorrhée dyspnée,rhinorrhée
+1469,rhinorrhee,rhinorrhée,rhinorrhée
+1470,algie diffuse,Algie diffuse,None
+1471,rhinorrhee,rhinorrhée,rhinorrhée
+1472,dyspnee  rhinorrhee,dyspnée rhinorrhée,rhinorrhée
+1473,crachats au matin,Crachats au matin,None
+1474,rhinorrhee,rhinorrhée,rhinorrhée
+1475,rhinorrhee,rhinorrhée,rhinorrhée
+1476,dyspnee,dyspnée,None
+1477,constipation   douleurs thoracique,Constipation douleurs thoracique,None
+1478,dyspnee,dyspnée,None
+1479,eternuement,éternuement,None
+1480,dyspnee   douleurs poitrines   essoufflement   faiblesse generale,dyspnée douleurs poitrines essoufflement faiblesse générale,None
+1481,rhinorrhee dyspnee,rhinorrhée dyspnée,rhinorrhée
+1482,rhinorrhee,rhinorrhée,rhinorrhée
+1483,rhinorrhee,rhinorrhée,rhinorrhée
+1484,rhinorrhee,rhinorrhée,rhinorrhée
+1485,diabetique,diabétique,None
+1486,dyspnee,dyspnée,None
+1487,rhinorrhee   anosnie,rhinorrhée anosmie,"anosmie,rhinorrhée"
+1488,rhinorrhee,rhinorrhée,rhinorrhée
+1489,courbatures,courbatures,None
+1490,douleurs thoracique,Douleurs thoraciques,None
+1491,rhinorrhee,rhinorrhée,rhinorrhée
+1492,rhinorrhee,rhinorrhée,rhinorrhée
+1493,rhinorrhee,rhinorrhée,rhinorrhée
+1494,algie diffuse,Algie diffuse,None
+1495,rhinorrhee,rhinorrhée,rhinorrhée
+1496,rhinorrhee,rhinorrhée,rhinorrhée
+1497,rhinorrhee,rhinorrhée,rhinorrhée
+1498,courbatures,courbatures,None
+1499,rhinorrhee,rhinorrhée,rhinorrhée
+1500,douleurs thoraciques algie diffuse anoraxie anorexie,Douleurs thoraciques algie diffuse anorexie anorexie,None
+1501,epigrastrologie,épigastralgie,None
+1502,rhinorrhee,rhinorrhée,rhinorrhée
+1503,rhinorrhee,rhinorrhée,rhinorrhée
+1504,rhinorrhee,rhinorrhée,rhinorrhée
+1505,algie diffuse dyspnee,Algie diffuse dyspnée,None
+1506,dyspnee,dyspnée,None
+1507,dyspnee,dyspnée,None
+1508,odynophasie,dysphasie,None
+1509,dyspnee detresse respiratoire,dyspnée détresse respiratoire,Douleurs musculaires
+1510,epigastralgie,épigastralgie,None
+1511,rhinorrhee,rhinorrhée,rhinorrhée
+1512,eccoulement nasal,écoulement nasal,None
+1513,algies diffuses,Algies diffuses,None
+1514,rhinorrhee,rhinorrhée,rhinorrhée
+1515,rhume,rhume,None
+1516,meningo encephalite,méningé encéphalite,None
+1517,rhinorrhee,rhinorrhée,rhinorrhée
+1518,rhinorrhee,rhinorrhée,rhinorrhée
+1519,rhinorrhee,rhinorrhée,rhinorrhée
+1520,rhinorrhee,rhinorrhée,rhinorrhée
+1521,rhinorrhee,rhinorrhée,rhinorrhée
+1522,rhinorrhee,rhinorrhée,rhinorrhée
+1523,ecoulement nasal,écoulement nasal,None
+1524,tembalgie,lombalgie,None
+1525,douleurs pulmonaires,Douleurs pulmonaires,None
+1526,rhinorrhee,rhinorrhée,rhinorrhée
+1527,perte d adorat,Perte d'adorat,None
+1528,asthenie,asthénie,None
+1529,nausees,nausées,None
+1530,asthenie,asthénie,None
+1531,antecedent fievre   faiblesse generale,antécédent fièvre faiblesse générale,None
+1532,tabagique alcool,Tabagique alcool,None
+1533,asthme,asthme,None
+1534,antecedent fievre,antécédent fièvre,None
+1535,douleurs thoracique,Douleurs thoraciques,None
+1536,myalgies cephalees,Myalgies céphalées,None
+1537,rhinite allergique,Rhinite allergique,None
+1538,antecedent fievre   douleurs hypograstrique  algies diffuses,antécédent fièvre douleurs hypogastrique algies diffuses,None
+1539,algies diffuse   pharyngite,Algies diffuse pharyngite,None
+1540,antecedent fievre,antécédent fièvre,None
+1541,antecedent fievre algies diffuses,antécédent fièvre algies diffuses,None
+1542,antecedent fievre,antécédent fièvre,None
+1543,asthenie,asthénie,None
+1544,arthralgies asthenie,Arthralgies asthénie,None
+1545,cephalees myalgies oppression thoracique,céphalées myalgies oppression thoracique,None
+1546,asthenie physique,asthénie physique,None
+1547,troubles respiratoires mal de poitrine,Troubles respiratoires mal de poitrine,None
+1548,rhinorrhee anosmie agnosie,rhinorrhée anosmie anosmie,"anosmie,rhinorrhée"
+1549,rhinorrhee,rhinorrhée,rhinorrhée
+1550,rhinorrhee,rhinorrhée,rhinorrhée
+1551,faiblesse generale,Faiblesse générale,None
+1552,rhinorrhee,rhinorrhée,rhinorrhée
+1553,algies diffuse   essouflement,Algies diffuses essoufflement,None
+1554,rhinorrhee,rhinorrhée,rhinorrhée
+1555,rhinorrhee,rhinorrhée,rhinorrhée
+1556,rhinorrhee,rhinorrhée,rhinorrhée
+1557,agueusie,agueusie,None
+1558,algie diffuse,Algie diffuse,None
+1559,rhinorrhee,rhinorrhée,rhinorrhée
+1560,faiblesse generale,Faiblesse générale,None
+1561,ecoulement nasale,écoulement nasale,None
+1562,manque d'appetit,Manque d'appétit,None
+1563,dyspnee,dyspnée,None
+1564,rhinorrhee,rhinorrhée,rhinorrhée
+1565,rhinorrhee,rhinorrhée,rhinorrhée
+1566,rhinorrhee,rhinorrhée,rhinorrhée
+1567,rhinorrhee,rhinorrhée,rhinorrhée
+1568,rhinorrhee,rhinorrhée,rhinorrhée
+1569,rhinorrhee,rhinorrhée,rhinorrhée
+1570,difficultes respiratoires  contractions generalisees,difficultés respiratoires contractions généralisées,None
+1571,rhinorrhee  algies diffuses,rhinorrhée algies diffuses,rhinorrhée
+1572,difficulte  respiratoire   dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1573,courbatures,courbatures,None
+1574,rhinorrhee,rhinorrhée,rhinorrhée
+1575,rhinorrhee douleurs thoracique,rhinorrhée douleurs thoraciques,rhinorrhée
+1576,rhinorrhee douleur thoracique,rhinorrhée douleur thoracique,rhinorrhée
+1577,rhinorrhee,rhinorrhée,rhinorrhée
+1578,rhinorrhee,rhinorrhée,rhinorrhée
+1579,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+1580,rhinorrhee,rhinorrhée,rhinorrhée
+1581,dyspnee,dyspnée,None
+1582,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1583,courbatures,courbatures,None
+1584,douleur thoracique,Douleur thoracique,None
+1585,cephalees myalgies,céphalées myalgies,None
+1586,rhinorrhee,rhinorrhée,rhinorrhée
+1587,rhinorrhee,rhinorrhée,rhinorrhée
+1588,asmathique,asiatique,None
+1589,asymptomatique,asymptomatique,None
+1590,rhinorrhee eternuements,rhinorrhée éternuements,rhinorrhée
+1591,asymptomatique,asymptomatique,None
+1592,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1593,asymptomatique,asymptomatique,None
+1594,asymptomatique,asymptomatique,None
+1595,asymptomatique,asymptomatique,None
+1596,asymptomatique,asymptomatique,None
+1597,asymptomatique,asymptomatique,None
+1598,asymptomatique,asymptomatique,None
+1599,asymptomatique,asymptomatique,None
+1600,rhinorrhee,rhinorrhée,rhinorrhée
+1601,rhinorrhee,rhinorrhée,rhinorrhée
+1602,dyspnee,dyspnée,None
+1603,asymptomatique,asymptomatique,None
+1604,antecedent de fievre frissons,antécédent de fièvre frissons,None
+1605,polyurie,polyurie,None
+1606,cephalees,céphalées,None
+1607,asymptomatique,asymptomatique,None
+1608,asymptomatique,asymptomatique,None
+1609,asymptomatique,asymptomatique,None
+1610,asymptomatique,asymptomatique,None
+1611,asymptomatique,asymptomatique,None
+1612,rhinorrhee difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+1613,rhinorrhee,rhinorrhée,rhinorrhée
+1614,asymptomatique,asymptomatique,None
+1615,asymptomatique,asymptomatique,None
+1616,asymptomatique,asymptomatique,None
+1617,asymptomatique,asymptomatique,None
+1618,rhinorrhee,rhinorrhée,rhinorrhée
+1619,rhinorrhee,rhinorrhée,rhinorrhée
+1620,asymptomatique,asymptomatique,None
+1621,malade mental,Malade mental,None
+1622,apo,a po,None
+1623,asymptomatique,asymptomatique,None
+1624,asymptomatique,asymptomatique,None
+1625,rhinorrhee,rhinorrhée,rhinorrhée
+1626,asymptomatique,asymptomatique,None
+1627,malade mentale,Malade mentale,None
+1628,asymptomatique,asymptomatique,None
+1629,asymptomatique,asymptomatique,None
+1630,asymptomatique,asymptomatique,None
+1631,asymptomatique,asymptomatique,None
+1632,asymptomatique,asymptomatique,None
+1633,asymptomatique,asymptomatique,None
+1634,asymptomatique,asymptomatique,None
+1635,dyspee,dyspnée,None
+1636,asymptomatique,asymptomatique,None
+1637,asymptomatique,asymptomatique,None
+1638,asymptomatique,asymptomatique,None
+1639,asymptomatique,asymptomatique,None
+1640,asymptomatique,asymptomatique,None
+1641,asymptomatique,asymptomatique,None
+1642,asymptomatique,asymptomatique,None
+1643,asymptomatique,asymptomatique,None
+1644,asymptomatique,asymptomatique,None
+1645,asymptomatique,asymptomatique,None
+1646,asymptomatique,asymptomatique,None
+1647,antecedent de fievre frissons ecoulement nasal cephalees douleur musculaire douleur abdominale douleur douleur articulation,antécédent de fièvre frissons écoulement nasal céphalées douleur musculaire douleur abdominale douleur articulation,None
+1648,asymptomatique,asymptomatique,None
+1649,asymptomatique,asymptomatique,None
+1650,asymptomatique,asymptomatique,None
+1651,frequence respiratoire douleur a la poitrine,fréquence respiratoire douleur a la poitrine,Douleurs musculaires
+1652,asymptomatique,asymptomatique,None
+1653,asymptomatique,asymptomatique,None
+1654,asymptomatique,asymptomatique,None
+1655,asymptomatique,asymptomatique,None
+1656,asymptomatique,asymptomatique,None
+1657,asymptomatique,asymptomatique,None
+1658,asymptomatique,asymptomatique,None
+1659,asymptomatique,asymptomatique,None
+1660,asymptomatique,asymptomatique,None
+1661,asymptomatique,asymptomatique,None
+1662,asymptomatique,asymptomatique,None
+1663,rhinite,rhinite,None
+1664,asymptomatique,asymptomatique,None
+1665,asymptomatique,asymptomatique,None
+1666,dyspnee,dyspnée,None
+1667,rhinorrhee,rhinorrhée,rhinorrhée
+1668,dyspnee douleur thoracique,dyspnée douleur thoracique,None
+1669,asymptomatique,asymptomatique,None
+1670,ecoulement nasal,écoulement nasal,None
+1671,asymptomatique,asymptomatique,None
+1672,antecedent de fievre frissons  ecoulement nasal,antécédent de fièvre frissons écoulement nasal,None
+1673,douleur thoracique,Douleur thoracique,None
+1674,asymptomatique,asymptomatique,None
+1675,asymptomatique,asymptomatique,None
+1676,essoufflement,essoufflement,None
+1677,ecoulement nasal,écoulement nasal,None
+1678,asymptomatique,asymptomatique,None
+1679,essouflement   manque d'air,essoufflement manque d'air,None
+1680,polyantralgie,polyantralgie,None
+1681,rhinorrhee dyspnee,rhinorrhée dyspnée,rhinorrhée
+1682,ambolie pulmonaire,abolie pulmonaire,None
+1683,asymptomatique,asymptomatique,None
+1684,asymptomatique,asymptomatique,None
+1685,dyspnee,dyspnée,None
+1686,rhinorrhee,rhinorrhée,rhinorrhée
+1687,rhinorrhee,rhinorrhée,rhinorrhée
+1688,rhinorrhee,rhinorrhée,rhinorrhée
+1689,rhinorrhee,rhinorrhée,rhinorrhée
+1690,rhinorrhee,rhinorrhée,rhinorrhée
+1691,anosmie aueusie,anosmie agueusie,anosmie
+1692,anosmie,anosmie,anosmie
+1693,agueusie insomnie anosmie,Agueusie insomnie anosmie,anosmie
+1694,rhinorrhee,rhinorrhée,rhinorrhée
+1695,anosmie agueusie,anosmie agueusie,anosmie
+1696,agueusie insomnie,Agueusie insomnie,None
+1697,anosmie agueusie,anosmie agueusie,anosmie
+1698,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1699,anosmie agueusie,anosmie agueusie,anosmie
+1700,anosmie agueusie insomnie,anosmie agueusie insomnie,anosmie
+1701,anosmie agueusie insomnie,anosmie agueusie insomnie,anosmie
+1702,anosmie  agueusie,anosmie agueusie,anosmie
+1703,rhinorrhee,rhinorrhée,rhinorrhée
+1704,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+1705,rhinorrhee,rhinorrhée,rhinorrhée
+1706,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1707,rhinorrhee,rhinorrhée,rhinorrhée
+1708,algies musculaires,Algies musculaires,None
+1709,algie diffuse,Algie diffuse,None
+1710,algie diffuse bouffe de chaleur,Algie diffuse bouffe de chaleur,None
+1711,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1712,rhinorrhee,rhinorrhée,rhinorrhée
+1713,rhinorrhee algies diffuse,rhinorrhée algies diffuses,rhinorrhée
+1714,rhinorrhee,rhinorrhée,rhinorrhée
+1715,asymptomatique,asymptomatique,None
+1716,asymptomatique,asymptomatique,None
+1717,asymptomatique,asymptomatique,None
+1718,asymptomatique,asymptomatique,None
+1719,asymptomatique,asymptomatique,None
+1720,douleur thoracique,Douleur thoracique,None
+1721,asymptomatique,asymptomatique,None
+1722,asymptomatique,asymptomatique,None
+1723,asymptomatique,asymptomatique,None
+1724,rhinorrhee   algies diffuses,rhinorrhée algies diffuses,rhinorrhée
+1725,courbatures  algies diffuses  douleur thoracique,Courbatures algies diffuses douleur thoracique,None
+1726,rhinorrhee,rhinorrhée,rhinorrhée
+1727,algie diffuse  ,Algie diffuse ,None
+1728,diabetique,diabétique,None
+1729,rhinorrhee,rhinorrhée,rhinorrhée
+1730,rhinorrhee,rhinorrhée,rhinorrhée
+1731,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+1732,eternuments,éternuements,None
+1733,difficultes respiratoires dyspnee rhinorrhee,difficultés respiratoires dyspnée rhinorrhée,rhinorrhée
+1734,difficultes respiratoires dyspnee,difficultés respiratoires dyspnée,None
+1735,asthmatique,asthmatique,None
+1736,polyartheralgie,polyartheralgie,None
+1737,dyspnee,dyspnée,None
+1738,asthenie,asthénie,None
+1739,algies diffuses,Algies diffuses,None
+1740,algies diffuses,Algies diffuses,None
+1741,asymptomatique,asymptomatique,None
+1742,asymptomatique,asymptomatique,None
+1743,asymptomatique,asymptomatique,None
+1744,asymptomatique,asymptomatique,None
+1745,courbatures,courbatures,None
+1746,courbatures,courbatures,None
+1747,asymptomatique,asymptomatique,None
+1748,diabetique,diabétique,None
+1749,asymptomatique,asymptomatique,None
+1750,asymptomatique,asymptomatique,None
+1751,asymptomatique,asymptomatique,None
+1752,asymptomatique,asymptomatique,None
+1753,sensation  eternuement,Sensation éternuement,Douleurs musculaires
+1754,frequence respiratoire,fréquence respiratoire,Douleurs musculaires
+1755,frequence respiratoire douleur abdominale,fréquence respiratoire douleur abdominale,Douleurs musculaires
+1756,rhinorrhee,rhinorrhée,rhinorrhée
+1757,courbatures,courbatures,None
+1758,rhinorrhee,rhinorrhée,rhinorrhée
+1759,rougeur occulaire,Rougeur oculaire,None
+1760,conjonctivite,conjonctivite,None
+1761,rhinorrhee  anosmie  agueusie  insomnie  vomissements pp,rhinorrhée anosmie agueusie insomnie vomissements pp,"anosmie,rhinorrhée"
+1762,algie diffuse,Algie diffuse,None
+1763,diabete,diabète,None
+1764,rhinorrhee,rhinorrhée,rhinorrhée
+1765,rhinorrhee,rhinorrhée,rhinorrhée
+1766,rhinorrhee,rhinorrhée,rhinorrhée
+1767,rhinorrhee,rhinorrhée,rhinorrhée
+1768,rhinorrhee,rhinorrhée,rhinorrhée
+1769,essouflement  manque d'air  dyspnee,essoufflement manque d'air dyspnée,None
+1770,rhinorrhee,rhinorrhée,rhinorrhée
+1771,pertes goiut,Pertes goût,None
+1772,essouflement,essoufflement,None
+1773,faiblesse generale,Faiblesse générale,None
+1774,courbatures,courbatures,None
+1775,faiblesse generale,Faiblesse générale,None
+1776,essouflement   manque d'air,essoufflement manque d'air,None
+1777,asymptomatique,asymptomatique,None
+1778,ecoulement nasal,écoulement nasal,None
+1779,antecedent de fievre frissons douleur musculaire et articulation,antécédent de fièvre frissons douleur musculaire et articulation,None
+1780,douleur poitrine agueusie,Douleur poitrine agueusie,None
+1781,rhinorrhee,rhinorrhée,rhinorrhée
+1782,rhinorrhee douleur abdominale arthralgie myalgies,rhinorrhée douleur abdominale arthralgie myalgies,rhinorrhée
+1783,cephalees moderees en casques myalgies,céphalées modérées en casques myalgies,None
+1784,essouflement,essoufflement,None
+1785,rhinorrhee douleur musculaires,rhinorrhée douleur musculaire,rhinorrhée
+1786,rhinorrhee,rhinorrhée,rhinorrhée
+1787,eternuement,éternuement,None
+1788,nausees diarrhee perte d'appetit,nausées diarrhée perte d'appétit,None
+1789,rhinorrhee,rhinorrhée,rhinorrhée
+1790,faiblesse generale   asthmatique,Faiblesse générale asthmatique,None
+1791,rhinorrhee myalgie gene respiratoire,rhinorrhée myalgie gène respiratoire,"Douleurs musculaires,rhinorrhée"
+1792,cephalee,céphalée,None
+1793,anosmie  agueusie  insomnie  vomissements pp,anosmie agueusie insomnie vomissements pp,anosmie
+1794,myalgie,myalgie,None
+1795,hta avc,HTA AVC,None
+1796,diabetique,diabétique,None
+1797,eternuement,éternuement,None
+1798,essoufflement,essoufflement,None
+1799,rhinorrhee  difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+1800,d,d,None
+1801,rhinorrhee,rhinorrhée,rhinorrhée
+1802,douleurs thoracique,Douleurs thoraciques,None
+1803,algies diffuse,Algies diffuses,None
+1804,rhinorrhee,rhinorrhée,rhinorrhée
+1805,algies diffuses,Algies diffuses,None
+1806,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1807,faiblesse generale,Faiblesse générale,None
+1808,courbatures  anorexie,Courbatures anorexie,None
+1809,difficulte  respiratoire   algie diffuse,difficulté respiratoire algie diffuse,Douleurs musculaires
+1810,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+1811,rhinorrhee  difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+1812,dyspnee,dyspnée,None
+1813,rhinorrhee,rhinorrhée,rhinorrhée
+1814,rhinorrhee difficulte respiratoire,rhinorrhée difficulté respiratoire,"Douleurs musculaires,rhinorrhée"
+1815,rhinorrhee,rhinorrhée,rhinorrhée
+1816,perte de gout et d odorat,Perte de gout et d'odorat,None
+1817,rhinorrhee,rhinorrhée,rhinorrhée
+1818,rhinorrhee courbatures,rhinorrhée courbatures,rhinorrhée
+1819,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+1820,difficulte  respiratoire,difficulté respiratoire,Douleurs musculaires
+1821,rhinorrhee,rhinorrhée,rhinorrhée
+1822,rhinorrhee,rhinorrhée,rhinorrhée
+1823,rhinorrhee,rhinorrhée,rhinorrhée
+1824,dyspnee eternuements,dyspnée éternuements,None
+1825,lombalgie,lombalgie,None
+1826,dyspnee,dyspnée,None
+1827,dyspnee,dyspnée,None
+1828,dyspnee,dyspnée,None
+1829,hernie operee,Hernie opérée,None
+1830,hta diabetique,HTA diabétique,None
+1831,frequence respiratoire myalgies vomissements,fréquence respiratoires myalgies vomissements,None
+1832,frequence respiratoire,fréquence respiratoire,Douleurs musculaires
+1833,rhinorrhee,rhinorrhée,rhinorrhée
+1834,frequence respiratoire,fréquence respiratoire,Douleurs musculaires
+1835,frequence respiratoire,fréquence respiratoire,Douleurs musculaires
+1836,frequence respiratoire,fréquence respiratoire,Douleurs musculaires
+1837,frequence respiratoire,fréquence respiratoire,Douleurs musculaires
+1838,arthralgies  irritations,Arthralgies irritations,None
+1839,asymptomatique,asymptomatique,None
+1840,rhinorrhee,rhinorrhée,rhinorrhée
+1841,aucun,aucun,None
+1842,difficulte respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1843,asymptomatique,asymptomatique,None
+1844,asymptomatique,asymptomatique,None
+1845,douleur thoraxique dyspnee cephalees,Douleur thoracique dyspnée céphalées,None
+1846,allergies diffuses,Allergies diffuses,None
+1847,essouflement faiblesse musculaire alteration de l'odorat,essoufflement faiblesse musculaire altération de l'odorat,None
+1848,dyspnee,dyspnée,None
+1849,rhinorrhee,rhinorrhée,rhinorrhée
+1850,asymptomatique,asymptomatique,None
+1851,cephalees,céphalées,None
+1852,dyspnee arthralgies myalgie,dyspnée arthralgies myalgie,None
+1853,dyspnee,dyspnée,None
+1854,asymptomatique,asymptomatique,None
+1855,rhinorrhee anosmie agnosie,rhinorrhée anosmie anosmie,"anosmie,rhinorrhée"
+1856,asymptomatique,asymptomatique,None
+1857,asymptomatique,asymptomatique,None
+1858,asymptomatique,asymptomatique,None
+1859,rhinorrhee courbature vomissements alimenttaires,rhinorrhée courbature vomissements alimentaires,"Douleurs musculaires,rhinorrhée"
+1860,anosmie agueusie insomnie vomissements pp alimentaires,anosmie agueusie insomnie vomissements pp alimentaires,anosmie
+1861,rhinorrhee,rhinorrhée,rhinorrhée
+1862,vertiges,vertiges,None
+1863,rhinorrhee,rhinorrhée,rhinorrhée
+1864,asymptomatique,asymptomatique,None
+1865,asymptomatique,asymptomatique,None
+1866,rhinorrhee,rhinorrhée,rhinorrhée
+1867,asymptomatique,asymptomatique,None
+1868,asymptomatique,asymptomatique,None
+1869,essouflement myalgies anosmie agueusie insomnie vomissements pp alimentaires,essoufflement myalgies anosmie agueusie insomnie vomissements pp alimentaires,anosmie
+1870,anosmie agueusie insomnie vomissements pp alimentaires,anosmie agueusie insomnie vomissements pp alimentaires,anosmie
+1871,anosmie agueusie insomnie vomissements pp alimentaires,anosmie agueusie insomnie vomissements pp alimentaires,anosmie
+1872,anosmie agueusie insomnie vomissements pp alimentaires,anosmie agueusie insomnie vomissements pp alimentaires,anosmie
+1873,asymptomatique,asymptomatique,None
+1874,anosmie agueusie insomnie vomissements pp alimentaires,anosmie agueusie insomnie vomissements pp alimentaires,anosmie
+1875,asymptomatique,asymptomatique,None
+1876,anosmie agueusie insomnie vomissements pp alimentaires,anosmie agueusie insomnie vomissements pp alimentaires,anosmie
+1877,rhinorrhee,rhinorrhée,rhinorrhée
+1878,ageusie,agueusie,None
+1879,anosmie agueusie insomnie vomissements pp alimentaires,anosmie agueusie insomnie vomissements pp alimentaires,anosmie
+1880,vomissements,vomissements,None
+1881,rhinorrhee,rhinorrhée,rhinorrhée
+1882,asymptomatique,asymptomatique,None
+1883,asymptomatique,asymptomatique,None
+1884,anosmie agueusie insomnie vomissements pp alimentaires,anosmie agueusie insomnie vomissements pp alimentaires,anosmie
+1885,asymptomatique,asymptomatique,None
+1886,anosmie agueusie insomnie vomissements pp alimentaires,anosmie agueusie insomnie vomissements pp alimentaires,anosmie
+1887,anosmie agueusie insomnie vomissements pp alimentaires,anosmie agueusie insomnie vomissements pp alimentaires,anosmie
+1888,diabete,diabète,None
+1889,agueusie insomnie vomissements pp alimentaires,Agueusie insomnie vomissements pp alimentaires,None
+1890,anosmie agueusie insomnie vomissements pp alimentaires,anosmie agueusie insomnie vomissements pp alimentaires,anosmie
+1891,rhinorrhee,rhinorrhée,rhinorrhée
+1892,antecedent de fievre frissons  ecoulement nasal,antécédent de fièvre frissons écoulement nasal,None
+1893,asymptomatique,asymptomatique,None
+1894,asymptomatique,asymptomatique,None
+1895,faiblesse generale,Faiblesse générale,None
+1896,antecedent de fievre frissons faiblesse generale  douleur articulation,antécédent de fièvre frissons faiblesse générale douleur articulation,None
+1897,asymptomatique,asymptomatique,None
+1898,rhinorrhee dysnee,rhinorrhée dyspnée,rhinorrhée
+1899,asmathique,asiatique,None
+1900,faiblesse generale anosmie,Faiblesse générale anosmie,anosmie
+1901,asymptomatique,asymptomatique,None
+1902,asymptomatique,asymptomatique,None
+1903,faiblesse generale   douleurs thoracique,Faiblesse générale douleurs thoracique,None
+1904,ecoulement nasal,écoulement nasal,None
+1905,faiblesse generale,Faiblesse générale,None
+1906,ecoulement nasal essouflement manque d'air,écoulement nasal essoufflement manque d'air,None
+1907,dyspnee asthenie,dyspnée asthénie,None
+1908,dyspnee myalgie,dyspnée myalgie,None
+1909,dypsnee rhinorrhee,dyspnée rhinorrhée,rhinorrhée
+1910,rhinorrhee,rhinorrhée,rhinorrhée
+1911,rhinorrhee douleur thoracique,rhinorrhée douleur thoracique,rhinorrhée
+1912,ecoulement nasal,écoulement nasal,None
+1913,faiblesse generale,Faiblesse générale,None
+1914,anosmie agueusie,anosmie agueusie,anosmie
+1915,anosmie agueusie,anosmie agueusie,anosmie
+1916,courbatures asthenie physique,Courbatures asthénie physique,None
+1917,agueusie insomnie,Agueusie insomnie,None
+1918,myalgie,myalgie,None
+1919,arthralgies myalgies,Arthralgies myalgies,None
+1920,dyspnee,dyspnée,None
+1921,rhinorrhee,rhinorrhée,rhinorrhée
+1922,dyspnee rhinorrhee,dyspnée rhinorrhée,rhinorrhée
+1923,vomissements,vomissements,None
+1924,rhinorrhee,rhinorrhée,rhinorrhée
+1925,rhinorrhee difficultes respiratoires,rhinorrhée difficultés respiratoires,rhinorrhée
+1926,rhinorrhee,rhinorrhée,rhinorrhée
+1927,rhinorrhee,rhinorrhée,rhinorrhée
+1928,rhinorrhee,rhinorrhée,rhinorrhée
+1929,rhinorrhee eternuement,rhinorrhée éternuement,rhinorrhée
+1930,ecoulement nasal,écoulement nasal,None
+1931,rhinorrhee,rhinorrhée,rhinorrhée
+1932,dyspnee   irritabilite   essoufflement   articulation pulmonaire anormal   diabete   maladie cardio vasculaire,dyspnée irritabilité essoufflement articulation pulmonaire anormal diabète maladie cardiovasculaire,None
+1933,douleurs thoracique   douleurs abdominales  dyspnee,Douleurs thoraciques douleurs abdominales dyspnée,None
+1934,dyspnee   convulsion,dyspnée convulsion,None
+1935,dyspnee,dyspnée,None
+1936,dyspnee,dyspnée,None
+1937,sinusite atc,Sinusite etc,None
+1938,difficulte respiratoire,difficulté respiratoire,Douleurs musculaires
+1939,difficulte respiratoire,difficulté respiratoire,Douleurs musculaires
+1940,asymptomatique,asymptomatique,None
+1941,asymptomatique,asymptomatique,None
+1942,asymptomatique,asymptomatique,None
+1943,asymptomatique,asymptomatique,None
+1944,dyspnee respiratoire,dyspnée respiratoire,Douleurs musculaires
+1945,astrarlgie coubature,arthralgie courbature,Douleurs musculaires
+1946,vertige,vertige,None
+1947,frissons douleur thoracique,Frissons douleur thoracique,None
+1948,asymptomatique,asymptomatique,None
+1949,antecedent de fievre frissons ecoulement nasal dyspnee d'effort algie  diffuse,antécédent de fièvre frissons écoulement nasal dyspnée d'effort algie diffuse,None
+1950,asymptomatique,asymptomatique,None
+1951,asymptomatique,asymptomatique,None
+1952,asymptomatique,asymptomatique,None
+1953,asymptomatique,asymptomatique,None
+1954,asymptomatique,asymptomatique,None
+1955,asymptomatique,asymptomatique,None
+1956,asymptomatique,asymptomatique,None
+1957,asymptomatique,asymptomatique,None
+1958,asymptomatique,asymptomatique,None
+1959,asymptomatique,asymptomatique,None
+1960,asymptomatique,asymptomatique,None
+1961,asymptomatique,asymptomatique,None
+1962,asymptomatique,asymptomatique,None
+1963,asymptomatique,asymptomatique,None
+1964,difficulte respiratoire,difficulté respiratoire,Douleurs musculaires
+1965,myalgies,myalgies,None
+1966,asymptomatique,asymptomatique,None
+1967,asymptomatique,asymptomatique,None
+1968,ecouvillage naso pharynge,épouillage n'as pharyngé,None
+1969,asthmatique,asthmatique,None
+1970,amaigrissement,amaigrissement,None
+1971,myalgies,myalgies,None
+1972,myalgies,myalgies,None
+1973,ecouvillonnage naso pharynge ecouvillage nasal,écouvillonnage n'as pharyngé épouillage nasal,None
+1974,myalgies,myalgies,None
+1975,asymptomatique,asymptomatique,None
+1976,myalgies,myalgies,None
+1977,ecouvillonnage naso pharynge,écouvillonnage n'as pharyngé,None
+1978,asymptomatique,asymptomatique,None
+1979,asymptomatique,asymptomatique,None
+1980,douleurs poitrine,Douleurs poitrine,None
+1981,difficulte  respiratoire dyspnee,difficulté respiratoire dyspnée,Douleurs musculaires
+1982,difficulte a la poitrine,difficulté a la poitrine,None
+1983,rhinorrhee,rhinorrhée,rhinorrhée
+1984,rhinorrhee,rhinorrhée,rhinorrhée
+1985,rhinorrhee,rhinorrhée,rhinorrhée
+1986,dyspnee,dyspnée,None
+1987,rhinorrhee,rhinorrhée,rhinorrhée
+1988,rhinorrhee,rhinorrhée,rhinorrhée
+1989,dyspnee   rhume difficulte respiratoire,dyspnée rhume difficulté respiratoire,Douleurs musculaires
+1990,myalgies,myalgies,None
+1991,douleurs poitrine   faiblesse generale,Douleurs poitrine faiblesse générale,None
+1992,dysanterie,dysenterie,None
+1993,aucun,aucun,None
+1994,aucun,aucun,None
+1995,courbature,courbature,Douleurs musculaires
+1996,aucun,aucun,None
+1997,lombalgie myalgie,Lombalgie myalgie,None
+1998,myalgie,myalgie,None
+1999,aucun,aucun,None
