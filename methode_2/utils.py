@@ -23,11 +23,19 @@ from pygments.token import String
 from pandas.core.groupby.grouper import DataFrame
 from scrapping import getCategories
 
-data = pd.read_csv(
-    '/Users/user/Desktop/text-mining/VariableCibles.csv', sep=";")
 
 tool = language_tool_python.LanguageTool(
     'fr', config={'cacheSize': 2000, 'pipelineCaching': True})
+
+
+def read_dataset(dataset_path):
+    if not dataset_path.endswith('.csv'):
+        print("Il faut un fichier csv !")
+        exit
+    else:
+        separator = find_delimiter(dataset_path)
+        dataset = pd.read_csv(dataset_path, sep=separator)
+        return dataset
 
 
 def clean_txt(word):
@@ -62,8 +70,7 @@ def find_delimiter(dataset_path):
 
 
 def correct_target(dataset_path, target):
-    separator = find_delimiter(dataset_path)
-    dataset = pd.read_csv(dataset_path, sep=separator)
+    dataset = read_dataset(dataset_path)
     column_target = dataset[target]
     column_target.dropna(inplace=True)
     target_dataset = pd.DataFrame({target: column_target.str.lower()})
@@ -160,8 +167,7 @@ It returns a dataframe with three column: the target one, another named Correcte
 
 
 def find_categories(dataset_corrected_path, target: String) -> DataFrame:
-    separator = find_delimiter(dataset_corrected_path)
-    dataset = pd.read_csv(dataset_corrected_path, sep=separator)
+    dataset = read_dataset(dataset_corrected_path)
     dataset_to_use = dataset.copy()
     cliCategories = getCliCategories()
     print("--------------------------------------------finding categories----------------------------------------")
@@ -206,17 +212,20 @@ def get_categories_value_counts(dataframe, column):
         print(f"{column} n'est pas présente dans {dataframe}")
     else:
         print(dataframe[column].value_counts())
-        # choice = input("Tapeze 1 pour enregistrer la base et 0 pour quitter: ")
-        # while choice not in ["0", "1"]:
-        #     print("Vous ne pouvez choisir qu'entre 0 et 1 !")
-        #     choice = input(
-        #         "Tapeze 1 pour enregistrer la base et 0 pour quitter: ")
-        # if choice == "1":
-        #     name = input("Donner le nom du dataset : ")
-        #     save_to_csv(dataframe, name)
-        #     print("Enregistrer ! ")
-        # else:
-        #     exit
+
+
+def correct_outliers(dataset_path, target):
+    dataset = read_dataset(dataset_path)
+    to_correct = input("Entrer l'élément à corriger: ")
+    correction = input("Elément de remplacement: ")
+    if target not in dataset.columns:
+        print(
+            f"Verifiez la target car {target} ne se trouve pas dans ce dataset")
+    else:
+        dataset.loc[dataset[target] == to_correct, target] = correction
+        name = input("Donner le nom du dataset pour l'enregistrer: ")
+        save_to_csv(dataset, name)
+        print("Enregistrer ! ")
 
 
 if __name__ == "__main__":
