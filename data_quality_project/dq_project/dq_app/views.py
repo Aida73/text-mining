@@ -33,14 +33,3 @@ class DatasetCorrectionView(APIView):
         return Response({"file": corrected_dataset}, status=status.HTTP_201_CREATED)
 
 # on R install xml2
-# @api_view(['POST'])
-# @csrf_exempt
-# def data_correction(request):
-#     if request.method == "POST":
-#         dataset = request.Files['dataset_file']
-#         column_target = request.data['target']
-#         print(dataset)
-#         print(column_target)
-#         corrected_dataset = correct_target(dataset, column_target)
-#         return Response({"corrected": corrected_dataset})
-#     return Response({"error": "erreur"})
