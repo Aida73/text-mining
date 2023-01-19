@@ -109,7 +109,7 @@ def find_category(dataset: DataFrame, target: String, category: String):
         categories.append(category.lower())
         if "Corrected" in dataset.columns:
             dataset['Corrected'] = dataset['Corrected'].swifter.apply(
-                lambda x: correction(x, category))  # this is not applied
+                lambda x: correction(x, category))
             if "Categorie" not in dataset.columns:
                 dataset['Categorie'] = "None,"
             dataset.loc[dataset['Corrected'].str.lower().swifter.apply(lambda x: any(
