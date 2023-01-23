@@ -22,5 +22,6 @@ from dq_app import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/correction', views.DatasetCorrectionView.as_view())
+    path('api/correction', views.DatasetCorrectionView.as_view()),
+    path('api/categorization', views.DatasetCategorizationView.as_view())
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

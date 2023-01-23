@@ -33,3 +33,21 @@ class DatasetCorrectionView(APIView):
         return Response({"file": corrected_dataset}, status=status.HTTP_201_CREATED)
 
 # on R install xml2
+
+
+@permission_classes((permissions.AllowAny,))
+class DatasetCategorizationView(APIView):
+    parser_classes = (MultiPartParser,)
+
+    def post(self, request, format=None):
+
+        if 'file' not in request.data:
+            raise ParseError("Empty content")
+
+        f = request.data['file']
+        target = request.data['target']
+        elements = request.data['elements']
+        liste_elements = elements.split(" ")
+        categorized_dataset = find_categories(f, target, liste_elements)
+        print(elements.split(" "))
+        return Response({"categorized_dataset": categorized_dataset}, status=status.HTTP_201_CREATED)

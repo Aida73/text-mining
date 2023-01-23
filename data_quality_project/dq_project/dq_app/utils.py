@@ -86,6 +86,50 @@ def correct_target(dataset_path, target):
     return target1
 
 
+def find_category(dataset: DataFrame, target: String, category: String):
+    categories = getCategories(category)
+    if isinstance(categories, str):
+        print(
+            f"{category} ne contient malheureusement aucun élément. Veuillez la supprimer ou la changer")
+    else:
+        categories.append(category.lower())
+        if "Corrected" in dataset.columns:
+            dataset['Corrected'] = dataset['Corrected'].swifter.apply(
+                lambda x: correction(x, category))
+            if "Categorie" not in dataset.columns:
+                dataset['Categorie'] = "None,"
+            dataset.loc[dataset['Corrected'].str.lower().swifter.apply(lambda x: any(
+                [k in x.split(" ") for k in categories])) == True, 'Categorie'] += category+","
+        else:
+            print("Verifier si la colonne Corrected existe")
+
+
+def check_categories_searched(categories: list):
+    correct_categories = []
+    for cat in categories:
+        correct_categories.append(tool.correct(cat))
+    return correct_categories
+
+
+def refactor(x):
+    value = set(x.split(","))
+    value.discard("")
+    if len(value) > 1:
+        value.discard("None")
+    return ",".join(value)
+
+
+def find_categories(dataset_corrected_path, target: String, categories: list) -> DataFrame:
+    dataset = read_dataset(dataset_corrected_path)
+    dataset_to_use = dataset.copy()
+    print("--------------------------------------------finding categories----------------------------------------")
+    for category in check_categories_searched(categories):
+        find_category(dataset_to_use, target, category)
+    dataset_to_use['Categorie'] = dataset_to_use['Categorie'].swifter.apply(
+        refactor)
+    return dataset_to_use
+
+
 if __name__ == "__main__":
     args = sys.argv
     globals()[args[1]](*args[2:])
