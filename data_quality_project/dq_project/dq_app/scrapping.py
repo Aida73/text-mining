@@ -1,6 +1,7 @@
 from bs4 import BeautifulSoup
 import urllib
 import requests
+import unidecode
 
 
 # Check the Network
@@ -47,7 +48,7 @@ def getCategories(categorie):
                 return "Une des catégorie n'est pas correcte"
             else:
                 for elt in result+syn_result:
-                    categories.append(elt.text)
+                    categories.append(unidecode.unidecode(elt.text))
                 return categories
         else:
             return res.headers

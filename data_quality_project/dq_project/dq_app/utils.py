@@ -18,6 +18,9 @@ import language_tool_python
 import pandas as pd
 import csv
 import swifter
+import string
+import unidecode
+import spacy
 import nltk
 from pygments.token import String
 from pandas.core.groupby.grouper import DataFrame
@@ -26,6 +29,8 @@ from .scrapping import getCategories
 
 tool = language_tool_python.LanguageTool(
     'fr', config={'cacheSize': 2000, 'pipelineCaching': True})
+
+nlp = spacy.load("fr_core_news_sm")
 
 
 def read_dataset(dataset_path):
@@ -40,12 +45,32 @@ def read_dataset(dataset_path):
 
 def clean_txt(word):
     cleaned = word.translate(
-        {ord(c): " " for c in "!@#$%^&*()[]{};:,./<>?\|`~-=_+"})
+        {ord(c): " " for c in string.punctuation})
     return cleaned
+
+# enlever certaines outliers apres la correction
+
+
+def clean_txt_2(word):
+    cleaned = word.translate(
+        {ord(c): "" for c in ["'"]})
+    return cleaned
+
+# ne plus tenir compte du féminin/masculin singulier/pluriel
+
+
+def lematize(sentence):
+    nlp.get_pipe("lemmatizer").lookups.get_table(
+        "lemma_rules")["verb"] += [['e', 'er']]
+    return " ".join([t.lemma_ for t in nlp(sentence)])
+
+# on corrige et on enlève les punctuations
 
 
 def getCorrectWordTool(word):
-    return tool.correct(clean_txt(word))
+    text = tool.correct(clean_txt(word))
+    corrected_word = clean_txt_2(text)
+    return unidecode.unidecode(lematize(corrected_word))
 
 
 def correction(ligne, category):
@@ -76,12 +101,14 @@ def correct_target(dataset_path, target):
     column_target = dataset[target]
     column_target.dropna(inplace=True)
     target_dataset = pd.DataFrame({target: column_target.str.lower()})
-    target1 = target_dataset.copy()[:20000].copy()
+    target1 = target_dataset[:20000].copy().copy()
     print("---------------------------------------------------the correction starts--------------------------------------------")
     target1[target] = target1[target].str.lower(
     ).swifter.apply(clean_txt)
     target1['Corrected'] = target1[target].str.lower(
     ).swifter.apply(getCorrectWordTool)
+    target1["Corrected"] = target1["Corrected"].str.lower(
+    ).swifter.apply(clean_txt_2)
     print(target1.head())
     return target1
 
@@ -92,10 +119,10 @@ def find_category(dataset: DataFrame, target: String, category: String):
         print(
             f"{category} ne contient malheureusement aucun élément. Veuillez la supprimer ou la changer")
     else:
-        categories.append(category.lower())
+        categories.append(unidecode.unidecode(category.lower()))
         if "Corrected" in dataset.columns:
             dataset['Corrected'] = dataset['Corrected'].swifter.apply(
-                lambda x: correction(x, category))
+                lambda x: correction(x, unidecode.unidecode(category)))
             if "Categorie" not in dataset.columns:
                 dataset['Categorie'] = "None,"
             dataset.loc[dataset['Corrected'].str.lower().swifter.apply(lambda x: any(
