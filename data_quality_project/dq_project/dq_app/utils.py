@@ -22,10 +22,12 @@ import string
 import unidecode
 import spacy
 import nltk
+from spacy.lang.fr.stop_words import STOP_WORDS as fr_stop
 from pygments.token import String
 from pandas.core.groupby.grouper import DataFrame
 from .scrapping import getCategories
 
+punctuations = string.punctuation
 
 tool = language_tool_python.LanguageTool(
     'fr', config={'cacheSize': 2000, 'pipelineCaching': True})
@@ -52,25 +54,28 @@ def clean_txt(word):
 
 
 def clean_txt_2(word):
-    cleaned = word.translate(
-        {ord(c): "" for c in ["'"]})
-    return cleaned
-
-# ne plus tenir compte du féminin/masculin singulier/pluriel
-
-
-def lematize(sentence):
+    # cleaned = word.translate(
+    #     {ord(c): "" for c in ["'"]})
     nlp.get_pipe("lemmatizer").lookups.get_table(
         "lemma_rules")["verb"] += [['e', 'er']]
-    return " ".join([t.lemma_ for t in nlp(sentence)])
+    return " ".join([t.lemma_ for t in nlp(word)])
 
-# on corrige et on enlève les punctuations
+
+def spacy_tokenizer(sentence):
+    mytokens = [t.lemma_ for t in nlp(sentence)]
+    # Removing stop words
+    mytokens = [
+        word for word in mytokens if word not in fr_stop and word not in punctuations]
+    return ' '.join(mytokens)
 
 
 def getCorrectWordTool(word):
-    text = tool.correct(clean_txt(word))
-    corrected_word = clean_txt_2(text)
-    return unidecode.unidecode(lematize(corrected_word))
+    #word_tokenized = spacy_tokenizer(word)
+    text_stw = spacy_tokenizer(tool.correct(clean_txt(word)))
+    corrected_word = clean_txt_2(text_stw)
+    if corrected_word == "":
+        return word
+    return unidecode.unidecode(corrected_word)
 
 
 def correction(ligne, category):
@@ -101,14 +106,13 @@ def correct_target(dataset_path, target):
     column_target = dataset[target]
     column_target.dropna(inplace=True)
     target_dataset = pd.DataFrame({target: column_target.str.lower()})
-    target1 = target_dataset[:20000].copy().copy()
+    target1 = target_dataset[:10000].copy()
     print("---------------------------------------------------the correction starts--------------------------------------------")
-    target1[target] = target1[target].str.lower(
-    ).swifter.apply(clean_txt)
-    target1['Corrected'] = target1[target].str.lower(
-    ).swifter.apply(getCorrectWordTool)
-    target1["Corrected"] = target1["Corrected"].str.lower(
-    ).swifter.apply(clean_txt_2)
+    # target1[target] = target1[target].str.lower(
+    # ).swifter.apply(clean_txt)
+    target1['Corrected'] = target1[target].swifter.apply(getCorrectWordTool)
+    # target1["Corrected"] = target1["Corrected"].str.lower(
+    # ).swifter.apply(clean_txt_2)
     print(target1.head())
     return target1
 

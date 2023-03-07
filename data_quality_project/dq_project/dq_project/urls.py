@@ -40,6 +40,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/correction', views.DatasetCorrectionView.as_view()),
     path('api/categorization', views.DatasetCategorizationView.as_view()),
+    path('api/model', views.PredictionProfession.as_view()),
     path('', schema_view.with_ui('swagger',
          cache_timeout=0), name='schema-swagger-ui'),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

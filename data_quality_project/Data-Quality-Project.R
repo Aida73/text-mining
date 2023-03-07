@@ -17,7 +17,7 @@ write.csv(new_data, paste0(path_to_save_data,"corrected.csv"), row.names=FALSE)
 
 
 url2 <- "http://127.0.0.1:8000/api/categorization"
-list_professions <- paste("menagere","enseignement","commerce","medical")
+list_professions <- paste("menagere","enseignement","administration","commerce","medical","eleveurs")
 result_categorization = content(POST(url2, body = list(file = "/Users/user/Desktop/corrected.csv",target="profession",elements=list_professions)))
 
 
