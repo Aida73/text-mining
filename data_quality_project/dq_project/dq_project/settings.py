@@ -12,12 +12,15 @@ https://docs.djangoproject.com/en/4.0/ref/settings/
 
 from pathlib import Path
 import os
+import sys
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 MODELS = os.path.join(BASE_DIR, 'ml/models')
+sys.path.append(os.path.join(
+    BASE_DIR, '/Users/user/Desktop/projet_stage_text_mining/data_quality_project/dq_project/prediction'))
 
-
+DATA_UPLOAD_MAX_MEMORY_SIZE = 52428800
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/4.0/howto/deployment/checklist/
 
@@ -41,6 +44,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'rest_framework',
     'dq_app',
+    'prediction',
     'rest_framework_swagger',
     'drf_yasg',
 ]

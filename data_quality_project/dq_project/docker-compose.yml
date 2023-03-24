@@ -1,0 +1,9 @@
+version: '3.9'
+
+services:
+  django:
+    image: text-mining-project
+    build: .
+    ports:
+      - "7300:8000"
+    

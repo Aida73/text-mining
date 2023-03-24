@@ -23,6 +23,7 @@ from drf_yasg.views import get_schema_view
 from drf_yasg import openapi
 
 from dq_app import views
+from prediction import views as predict_views
 
 schema_view = get_schema_view(
     openapi.Info(
@@ -31,7 +32,7 @@ schema_view = get_schema_view(
         description="Ceci montre l'ensemble des endpoints disponible pour notre projet",
         terms_of_service="https://www.google.com/policies/terms/",
         contact=openapi.Contact(email="sowaida@ept.sn"),
-        #license=openapi.License(name="BSD License"),
+        # license=openapi.License(name="BSD License"),
     ),
     public=True,
 )
@@ -40,7 +41,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/correction', views.DatasetCorrectionView.as_view()),
     path('api/categorization', views.DatasetCategorizationView.as_view()),
-    path('api/model', views.PredictionProfession.as_view()),
+    path('api/model', predict_views.PredictionProfession.as_view()),
     path('', schema_view.with_ui('swagger',
          cache_timeout=0), name='schema-swagger-ui'),
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

@@ -1,31 +1,42 @@
 library(httr)
+library(jsonlite)
 dataset="/Users/user/Desktop/text-mining/VariableCibles.csv"
-path_to_save_data='/Users/user/Desktop/'
+data <- read.csv(file = dataset,sep=";")
 
-url <- "http://127.0.0.1:8000/api/correction"
-result_correction = content(POST(url,body = list(file = dataset,target="profession")))
+url_correction <- "http://127.0.0.1:8000/api/correction"
+url_categorization <- "http://127.0.0.1:8000/api/categorization"
+url_model <- "http://127.0.0.1:8000/api/model"
 
-#result to dataframe
-new_data <- as.data.frame(do.call(cbind, result_correction$file))
+df <- data.frame(data)
+result_correction = content(POST(url_correction,
+                                body = list(file = toJSON(df),target="profession"),
+                                add_headers(c("Content-Type" = "multipart/form-data"))))
 
-#change list class to character in the dataframe
+new_data <- as.data.frame(do.call(cbind, result_correction$data))
 new_data$profession <- unlist(new_data$profession, use.names = FALSE)
 new_data$Corrected <- unlist(new_data$Corrected, use.names = FALSE)
 
-#save dataframe as csv
-write.csv(new_data, paste0(path_to_save_data,"corrected.csv"), row.names=FALSE)
 
-
-url2 <- "http://127.0.0.1:8000/api/categorization"
+######################################Categorization############################################
 list_professions <- paste("menagere","enseignement","administration","commerce","medical","eleveurs")
-result_categorization = content(POST(url2, body = list(file = "/Users/user/Desktop/corrected.csv",target="profession",elements=list_professions)))
+result_categorization = content(POST(url_categorization, 
+                                     body = list(data = toJSON(new_data),target="profession",elements=list_professions),
+                                     add_headers(c("Content-Type" = "multipart/form-data"))))
 
-
-new_data2 <- as.data.frame(do.call(cbind, result_categorization$categorized_dataset))
+new_data2 <- as.data.frame(do.call(cbind, result_categorization$data))
 new_data2$profession <- unlist(new_data2$profession, use.names = FALSE)
 new_data2$Corrected <- unlist(new_data2$Corrected, use.names = FALSE)
 new_data2$Categorie <- unlist(new_data2$Categorie, use.names = FALSE)
-write.csv(new_data2, paste0(path_to_save_data,"categorized2.csv"), row.names=FALSE)
+
+
+prediction_categories <- content(POST(url_model,
+                                      body = list(data = toJSON(new_data2))))
+
+new_data3 <- as.data.frame(do.call(cbind, prediction_categories$predicted_dataset))
+new_data3$profession <- unlist(new_data3$profession, use.names = FALSE)
+new_data3$Corrected <- unlist(new_data3$Corrected, use.names = FALSE)
+new_data3$prediction <- unlist(new_data3$prediction, use.names = FALSE)
+
 
 
 

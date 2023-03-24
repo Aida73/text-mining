@@ -70,7 +70,7 @@ def spacy_tokenizer(sentence):
 
 
 def getCorrectWordTool(word):
-    #word_tokenized = spacy_tokenizer(word)
+    # word_tokenized = spacy_tokenizer(word)
     text_stw = spacy_tokenizer(tool.correct(clean_txt(word)))
     corrected_word = clean_txt_2(text_stw)
     if corrected_word == "":
@@ -101,8 +101,8 @@ def find_delimiter(dataset_path):
 ############################################## -CORRECTION-OF-GIVEN-DATAFRAME-##########################################################
 
 
-def correct_target(dataset_path, target):
-    dataset = read_dataset(dataset_path)
+def correct_target(dataset, target):
+    # dataset = read_dataset(dataset_path)
     column_target = dataset[target]
     column_target.dropna(inplace=True)
     target_dataset = pd.DataFrame({target: column_target.str.lower()})
@@ -150,9 +150,9 @@ def refactor(x):
     return ",".join(value)
 
 
-def find_categories(dataset_corrected_path, target: String, categories: list) -> DataFrame:
-    dataset = read_dataset(dataset_corrected_path)
-    dataset_to_use = dataset.copy()
+def find_categories(dataset_corrected, target: String, categories: list) -> DataFrame:
+    # dataset = read_dataset(dataset_corrected_path)
+    dataset_to_use = dataset_corrected.copy()
     print("--------------------------------------------finding categories----------------------------------------")
     for category in check_categories_searched(categories):
         find_category(dataset_to_use, target, category)

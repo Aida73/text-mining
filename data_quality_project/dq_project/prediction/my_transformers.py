@@ -1,16 +1,14 @@
-import spacy
-import spacy.cli
 from spacy.lang.fr.stop_words import STOP_WORDS as fr_stop
+import spacy.cli
 import string
 import language_tool_python
 import unidecode
 from sklearn.base import TransformerMixin
-import pickle
 
 
+# pipspacy.cli.download("fr_core_news_sm")
 nlp = spacy.load("fr_core_news_sm")
 punctuations = string.punctuation
-
 
 tool = language_tool_python.LanguageTool(
     'fr', config={'cacheSize': 2000, 'pipelineCaching': True})
@@ -48,8 +46,9 @@ def clean_text(text):
     """Removing spaces and converting the text into lowercase"""
     return text.strip().lower()
 
-
 # Custom transformer using spaCy
+
+
 class predictors(TransformerMixin):
     def transform(self, X, **transform_params):
         """Override the transform method to clean text"""
@@ -60,9 +59,3 @@ class predictors(TransformerMixin):
 
     def get_params(self, deep=True):
         return {}
-
-
-def load_model(text):
-    model = pickle.load(open('dq_app/profession_model.sav', 'rb'))
-    prediction = model.predict([text.lower()])
-    return prediction[0]
