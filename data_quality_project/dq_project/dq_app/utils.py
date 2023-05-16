@@ -106,7 +106,7 @@ def correct_target(dataset, target):
     column_target = dataset[target]
     column_target.dropna(inplace=True)
     target_dataset = pd.DataFrame({target: column_target.str.lower()})
-    target1 = target_dataset[:10000].copy()
+    target1 = target_dataset.copy()
     print("---------------------------------------------------the correction starts--------------------------------------------")
     # target1[target] = target1[target].str.lower(
     # ).swifter.apply(clean_txt)
