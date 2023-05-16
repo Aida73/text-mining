@@ -4,6 +4,7 @@ from rest_framework.exceptions import ParseError
 from rest_framework.response import Response
 from rest_framework.decorators import permission_classes
 from rest_framework import permissions, status
+from drf_yasg.utils import swagger_auto_schema
 
 from .models import *
 from .utils import *
@@ -15,6 +16,7 @@ import pickle
 
 
 @permission_classes((permissions.AllowAny,))
+@swagger_auto_schema(operation_description="partial_update description override", responses={404: 'slug not found'})
 class DatasetCorrectionView(APIView):
     parser_classes = (MultiPartParser,)
 

@@ -28,6 +28,7 @@ def load_model(text):
 class PredictionProfession(APIView):
     parser_classes = (MultiPartParser,)
 
+    @swagger_auto_schema(operation_description="description")
     def post(self, request):
 
         if 'data' not in request.data:

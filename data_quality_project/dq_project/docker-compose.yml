@@ -1,9 +1,25 @@
-version: '3.9'
+version: '3'
 
 services:
   django:
+    #restart: unless-stopped
     image: text-mining-project
     build: .
     ports:
       - "7300:8000"
-    
+    env_file:
+      - ./.env.dev
+    entrypoint: /app/entrypoint.sh
+    volumes:
+      - static_volume:/app/django_static
+  
+  nginx:
+    image: nginx:1.23-alpine
+    ports:
+      - 80:80
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/conf.d/default.conf
+      - static_volume:/app/django_static
+
+volumes:
+  static_volume: {}
